@@ -3,318 +3,438 @@
 004CFF 3,,
 BB00FF 4,,
 FFD700 5,,
+foodMayo,"Jar of Devildog Mayo",Devildog 美乃滋罐
+foodMayoDesc,"A jar of mayo, slurp slurp.",一罐美乃滋，咕嚕咕嚕。
+foodSausage,"Salty Dog Sausage",Salty Dog 香腸
+foodSausageDesc,"Doesn't contain dog meat.",不含狗肉。
+foodOatFlakes,"Oatmeal",燕麥片
+foodOatFlakesDesc,"A good source of carbohydrate.",良好的碳水化合物來源。
+medicalSplint,"Aluminum splint",鋁製夾板
+medicalSplintDesc,"A folded aluminum splint for fixing damaged limbs in place. ",折疊鋁製夾板，用於固定受損的肢體。
+medicalPlasterCast,"Immobilizing splint",固定夾板
+medicalPlasterCastDesc,"A splint for fixing damaged bones in place. ",夾板用於固定受損骨骼。
 modpistolscopemount,"Pistol Scope/Tactical Mount",手槍瞄準鏡/戰術支架
-modpistolscopemountDesc,"This attachment enables optics/laser/light on these pistols: PM Alphadog, M9A3, FN-57, P226R.",此配件可在以下手槍上安裝光學瞄準鏡/雷射/照明燈: PM Alphadog、M9A3、FN-57、P226R。
+modpistolscopemountDesc,"This attachment enables optics/laser/light on these pistols: PM Alphadog, M9A3, FN-57, P226R.",此配件允許在以下手槍上安裝光學瞄具/雷射/燈光：PM Alphadog、M9A3、FN-57、P226R。
 modrailhandguard,"Rail System Handguard",導軌系統護木
-modrailhandguardDesc,"This attachment adds a rail-system to some guns without picatinny rails, allowing the installation of additional attachments on your guns like: underbarrel, canted sight, foregrip, laser/light, bipod...; Guns with shorter handguards/rail platform (examples: M4A1, MP5, AKM) would require a 'foregrip' as a pre-requirement before laser/light could be installed. ",此配件為一些沒有皮卡汀尼導軌的槍支增加了導軌系統，允許在您的槍支上安裝額外的附件，如: 下槍管、傾斜瞄準器、前握把、激光/燈、兩腳架......；帶有較短護手/導軌平台的槍支（例如: M4A1、MP5、AKM）在安裝激光/燈之前需要先安裝“前握把”作為先決條件。
-modm203grenadelaunchersDesc,"Weight: [4FBE28]1.360kg[-]\nMount this grenade launcher on your gun to shoot grenades.\nPress [D3CE1D]X[-] to switch to grenade launcher.\n\nCompatibility: many Rifles, some SMGs and Saiga 12K. ",重量: [4FBE28]1.360kg[-]\n將此榴彈發射器安裝到你的槍上以發射榴彈。 \n按 [D3CE1D]X[-] 切換到榴彈發射器。 \n\n相容性: 許多步槍、一些 SMG 和 Saiga 12K。
-modgp25grenadelauncherDesc,"Weight: [4FBE28]1.400kg[-]\nMount this grenade launcher on your gun to shoot grenades.\nPress [D3CE1D]X[-] to switch to grenade launcher.\n\nCompatibility: All AK variants and not AKS-74UN. ",重量: [4FBE28]1.400kg[-]\n將此榴彈發射器安裝到你的槍上以發射榴彈。 \n按 [D3CE1D]X[-] 切換到榴彈發射器。 \n\n相容性: 所有 AK 變體，而非 AKS-74UN。
-schematicssvd,"[004CFF]SVDS 'Dragunov'[-] Schematic",[004CFF]SVDS 'Dragunov'[-] 示意圖
-gunsvd,"[004CFF]SVDS 'Dragunov'[-]",[004CFF]SVDS 'Dragunov'[-]
-gunsvdDesc,"SVDS Dragunov Sniper Rifle\n\nUses Ammo Type: [D3CE1D]7.62×54R[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nDMR Bonus: Deals [4FBE28]25%[-] extra damage.",SVDS Dragunov 狙擊步槍\n\n使用彈藥類型: [D3CE1D]7.62×54R[-]\n修理方法: [D3CE1D]武器修理套件[-]\n\nDMR 獎勵: 造成 [4FBE28]25%[-] 額外傷害。
-modmagSVDstd20Desc,"Weight: [4FBE28]0.112kg[-]\nMagazine Size: [4FBE28]20[-]\n\nCompatibility: SVDS 'Dragunov'",重量: [4FBE28]0.112kg[-]\n彈匣容量: [4FBE28]20[-]\n\n相容性: SVDS 'Dragunov'
-modmagSVDmakeshiftdrum50Desc,"Weight: [4FBE28]0.530kg[-]\nMagazine Size: [4FBE28]50[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: SVDS 'Dragunov'",重量: [4FBE28]0.530kg[-]\n彈匣容量: [4FBE28]50[-]\n裝填時間: [FF4F33]+20%[-]\n\n相容性: SVDS 'Dragunov'
-modSVDmuzzlebrakecompensatorDesc,"Weight: [4FBE28]0.080kg[-]\nRecoil: [4FBE28]-30%[-]\n\nCompatibility: SVDS 'Dragunov'\n\nActs as an adapter for 'Rotor 43'",重量: [4FBE28]0.080kg[-]\n後座力: [4FBE28]-30%[-]\n\n相容性: SVDS 'Dragunov'\n\n可作為 'Rotor 43' 的適配器
-modsilencerSVDrotor43Desc,"Weight: [4FBE28]0.180kg[-]\nRecoil: [4FBE28]-15%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: SVDS 'Dragunov'\n\nRequires adapter: 'SVDS Brake-Compensator'",重量: [4FBE28]0.180kg[-]\n後坐力: [4FBE28]-15%[-]\n人體工學: [FF4F33]-15%[-]\n腰射精度: [FF4F33]-15%[-]\n耐久燃燒: 相容性 [2433]+n:2003]+n. 'Dragunov'\n\n需要適配器: 'SVDS 煞車補償器'
-modscopePU3_5x,"[09FF00]PU 3.5x Scope[-]",[09FF00]PU 3.5倍瞄準鏡[-]
-modscopePU3_5xDesc,"Weight: [4FBE28]0.440kg[-]\n\nCompatibility: Mosin Nagant, SVT-40",重量: [4FBE28]0.440公斤[-]\n\n相容: 莫辛納甘、SVT-40
-modscopeaimpointAcroP1,"[09FF00]Aimpoint ACRO P-1 Reflex Sight[-]",[09FF00]Aimpoint ACRO P-1反射式瞄準鏡[-]
-modscopeaimpointAcroP1Desc,"Weight: [4FBE28]0.130kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.130公斤[-]\n\n相容: 大多數槍械
-modscopeaimpointMicroH2,"[09FF00]Aimpoint Micro H2 Reflex Sight[-]",[09FF00]Aimpoint Micro H2反射式瞄準鏡[-]
-modscopeaimpointMicroH2Desc,"Weight: [4FBE28]0.109kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.109公斤[-]\n\n相容: 大多數槍械
-modscopeaimpointMicroT1,"[09FF00]Aimpoint Micro T1 Reflex Sight[-]",[09FF00]Aimpoint Micro T1反射式瞄準鏡[-]
-modscopeaimpointMicroT1Desc,"Weight: [4FBE28]0.099kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.09​​9公斤[-]\n\n相容: 大多數槍械
-modscopeBelOMOpk06,"[09FF00]BelOMO PK-06 Reflex Sight[-]",[09FF00]BelOMO PK-06反射式瞄準鏡瞄準鏡[-]
-modscopeBelOMOpk06Desc,"Weight: [4FBE28]0.090kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.09​​0公斤[-]\n\n相容: 大多數槍械
+modrailhandguardDesc,"This attachment adds a rail-system to some guns without picatinny rails, allowing the installation of additional attachments on your guns like: underbarrel, canted sight, foregrip, laser/light, bipod...; Guns with shorter handguards/rail platform (examples: M4A1, MP5, AKM) would require a 'foregrip' as a pre-requirement before laser/light could be installed. ",此配件為沒有皮卡汀尼導軌的部分槍支添加導軌系統，使其能夠安裝額外的配件，例如：下掛武器、傾斜瞄具、前握把、雷射/燈光、兩腳架……；槍支若採用較短的護木/導軌平台（如 M4A1、MP5、AKM），則需要先安裝「前握把」才能安裝雷射/燈光。
+modm203grenadelaunchersDesc,"Weight: [4FBE28]1.360kg[-]\nMount this grenade launcher on your gun to shoot grenades.\nPress [D3CE1D]X[-] to switch to grenade launcher.\n\nCompatibility: many Rifles, some SMGs and Saiga 12K. ",重量：[4FBE28]1.360kg[-]\n將此榴彈發射器安裝在槍支上以發射榴彈。\n按 [D3CE1D]X[-] 切換至榴彈發射器。\n\n相容性：多數步槍，部分衝鋒槍及 Saiga 12K。
+modgp25grenadelauncherDesc,"Weight: [4FBE28]1.400kg[-]\nMount this grenade launcher on your gun to shoot grenades.\nPress [D3CE1D]X[-] to switch to grenade launcher.\n\nCompatibility: All AK variants and not AKS-74UN. ",重量：[4FBE28]1.400kg[-]\n將此榴彈發射器安裝在槍支上以發射榴彈。\n按 [D3CE1D]X[-] 切換至榴彈發射器。\n\n相容性：所有 AK 變種，但不包含 AKS-74UN。
+modscopePU3_5x,"[09FF00]PU 3.5x Scope[-]",[09FF00]PU 3.5x 瞄準鏡[-]
+modscopePU3_5xDesc,"Weight: [4FBE28]0.440kg[-]\n\nCompatibility: Mosin Nagant, SVT-40",重量：[4FBE28]0.440kg[-]\n\n相容性：Mosin Nagant、SVT-40。
+modscopeaimpointAcroP1,"[09FF00]Aimpoint ACRO P-1 Reflex Sight[-]",[09FF00]Aimpoint ACRO P-1 反射瞄準鏡[-]
+modscopeaimpointAcroP1Desc,"Weight: [4FBE28]0.130kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]0.130kg[-]\n\n相容性：大部分槍械。
+modscopeaimpointMicroH2,"[09FF00]Aimpoint Micro H2 Reflex Sight[-]",[09FF00]Aimpoint Micro H2 反射瞄準鏡[-]
+modscopeaimpointMicroH2Desc,"Weight: [4FBE28]0.109kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.109kg[-]\n\n相容性: 大多數的槍枝
+modscopeaimpointMicroT1,"[09FF00]Aimpoint Micro T1 Reflex Sight[-]",[09FF00]Aimpoint Micro T1 反射瞄準鏡[-]
+modscopeaimpointMicroT1Desc,"Weight: [4FBE28]0.099kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.099kg[-]\n\n相容性: 大多數的槍枝
+modscopeBelOMOpk06,"[09FF00]BelOMO PK-06 Reflex Sight[-]",[09FF00]BelOMO PK-06 反射瞄準鏡[-]
+modscopeBelOMOpk06Desc,"Weight: [4FBE28]0.090kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.090kg[-]\n\n相容性: 大多數的槍枝
 modscopeburrisfastfire,"[09FF00]Burris Fastfire Reflex 3 Sight[-]",[09FF00]Burris Fastfire Reflex 3 瞄準鏡[-]
-modscopeburrisfastfireDesc,"Weight: [4FBE28]0.042kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.042公斤[-]\n\n相容: 大多數槍械
+modscopeburrisfastfireDesc,"Weight: [4FBE28]0.042kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.042kg[-]\n\n相容性: 大多數的槍枝
 modscopeSIGromeo4,"[09FF00]SIG SAUER ROMEO 4 Reflex Sight[-]",[09FF00]SIG SAUER ROMEO 4 反射瞄準鏡[-]
-modscopeSIGromeo4Desc,"Weight: [4FBE28]0.104kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.104公斤[-]\n\n相容: 大多數槍械
+modscopeSIGromeo4Desc,"Weight: [4FBE28]0.104kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.104kg[-]\n\n相容性: 大多數的槍枝
 modscopeRMR,"[09FF00]Trijicon RMR Reflex Sight[-]",[09FF00]Trijicon RMR 反射瞄準鏡[-]
-modscopeRMRDesc,"Weight: [4FBE28]0.042kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.042公斤[-]\n\n相容: 大多數槍械
+modscopeRMRDesc,"Weight: [4FBE28]0.042kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.042kg[-]\n\n相容性: 大多數的槍枝
 modscopeleupolddeltapoint,"[09FF00]Leupold DeltaPoint Reflex Sight[-]",[09FF00]Leupold DeltaPoint 反射瞄準鏡[-]
-modscopeleupolddeltapointDesc,"Weight: [4FBE28]0.098kg[-]\n\nCompatibility: most firearms",重量:  [4FBE28]0.09​​8公斤[-]\n\n相容: 大多數槍械
-modscopeAimPointCompM4,"[09FF00]AimPoint CompM4 Reflex Sight[-]",[09FF00]AimPoint CompM4反射式瞄準鏡[-]
-modscopeAimPointCompM4Desc,"Weight: [4FBE28]0.445kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.445公斤[-]\n\n相容: 大多數槍械
-modscopeAimPointPro,"[09FF00]AimPoint PRO Reflex Sight[-]",[09FF00]AimPoint PRO反射式瞄準鏡[-]
-modscopeAimPointProDesc,"Weight: [4FBE28]0.345kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.345公斤[-]\n\n相容: 大多數槍械
-modscopeaksionEKP818,"[09FF00]Aksion Kobra EKP-8-18 Reflex Sight[-]",[09FF00]Aksion Kobra EKP-8-18反射式瞄準鏡[-]
-modscopeaksionEKP818Desc,"Weight: [4FBE28]0.270kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.270公斤[-]\n\n相容: 大多數槍械
-modscopeaksionEKP1s03,"[09FF00]Aksion Kobra EKP-1S-03 Reflex Sight Dovetail[-]",[09FF00]Aksion Kobra EKP-1S-03反射式瞄準鏡燕尾槽[-]
-modscopeaksionEKP1s03Desc,"Weight: [4FBE28]0.270kg[-]\n\nCompatibility: firearms with dovetail platform",重量:  [4FBE28]0.270公斤[-]\n\n相容: 帶有燕尾槽平台的槍支
-modscopeaksionEKP802,"[09FF00]Aksion Kobra EKP-8-02 Reflex Sight Dovetail[-]",[09FF00]Aksion Kobra EKP-8-02 反射式瞄準鏡 燕尾槽[-]
-modscopeaksionEKP802Desc,"Weight: [4FBE28]0.270kg[-]\n\nCompatibility: firearms with dovetail platform",重量: [4FBE28]0.270公斤[-]\n\n相容: 帶有燕尾槽平台的槍支
-modscopeBelOMOdovetailPKAA,"[09FF00]BelOMO PK-AA Reflex Sight Dovetail[-]",[09FF00]BelOMO PK-AA 反射式瞄準鏡 燕尾槽[-]
-modscopeBelOMOdovetailPKAADesc,"Weight: [4FBE28]0.450kg[-]\n\nCompatibility: firearms with dovetail platform",重量: [4FBE28]0.450公斤[-]\n\n相容: 帶有燕尾槽平台的槍支
+modscopeleupolddeltapointDesc,"Weight: [4FBE28]0.098kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.098kg[-]\n\n相容性: 大多數的槍枝
+modscopeAimPointCompM4,"[09FF00]AimPoint CompM4 Reflex Sight[-]",[09FF00]AimPoint CompM4 反射瞄準鏡[-]
+modscopeAimPointCompM4Desc,"Weight: [4FBE28]0.445kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.445kg[-]\n\n相容性: 大多數的槍枝
+modscopeAimPointPro,"[09FF00]AimPoint PRO Reflex Sight[-]",[09FF00]AimPoint PRO 反射瞄準鏡[-]
+modscopeAimPointProDesc,"Weight: [4FBE28]0.345kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.345kg[-]\n\n相容性: 大多數的槍枝
+modscopeaksionEKP818,"[09FF00]Aksion Kobra EKP-8-18 Reflex Sight[-]",[09FF00]Aksion Kobra EKP-8-18 反射瞄準鏡[-]
+modscopeaksionEKP818Desc,"Weight: [4FBE28]0.270kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.270kg[-]\n\n相容性: 大多數的槍枝
+modscopeaksionEKP1s03,"[09FF00]Aksion Kobra EKP-1S-03 Reflex Sight Dovetail[-]",[09FF00]Aksion Kobra EKP-1S-03 反射瞄準鏡燕尾導軌[-]
+modscopeaksionEKP1s03Desc,"Weight: [4FBE28]0.270kg[-]\n\nCompatibility: firearms with dovetail platform",Weight: [4FBE28]0.270kg[-]\n\n相容性: 帶有燕尾槽平台的槍支
+modscopeaksionEKP802,"[09FF00]Aksion Kobra EKP-8-02 Reflex Sight Dovetail[-]",[09FF00]Aksion Kobra EKP-8-02 反射瞄準鏡燕尾導軌[-]
+modscopeaksionEKP802Desc,"Weight: [4FBE28]0.270kg[-]\n\nCompatibility: firearms with dovetail platform",Weight: [4FBE28]0.270kg[-]\n\n相容性: 帶有燕尾槽平台的槍支
+modscopeBelOMOdovetailPKAA,"[09FF00]BelOMO PK-AA Reflex Sight Dovetail[-]",[09FF00]BelOMO PK-AA 反射瞄準鏡燕尾導軌[-]
+modscopeBelOMOdovetailPKAADesc,"Weight: [4FBE28]0.450kg[-]\n\nCompatibility: firearms with dovetail platform",Weight: [4FBE28]0.450kg[-]\n\n相容性: 帶有燕尾槽平台的槍支
 modscopeElcanSpecterHCO,"[09FF00]Elcan Specter HCO Holographic Sight[-]",[09FF00]Elcan Specter HCO 全息瞄準鏡[-]
-modscopeElcanSpecterHCODesc,"Weight: [4FBE28]0.433kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.433公斤[-]\n\n相容: 大多數槍支
-modscopeLeapersUTG,"[09FF00]Leapers UTG Reflex Sight[-]",[09FF00]Leapers UTG 反射式瞄準鏡[-]
-modscopeLeapersUTGDesc,"Weight: [4FBE28]0.227kg[-]\n\nCompatibility: most firearms",重量:  [4FBE28]0.227公斤[-]\n\n相容: 大多數槍械
-modscopeNPZPK1,"[09FF00]NPZ PK-1 Obzor Reflex Sight Dovetail[-]",[09FF00]NPZ PK-1 Obzor 反射式瞄準鏡 燕尾槽[-]
-modscopeNPZPK1Desc,"Weight: [4FBE28]0.520kg[-]\n\nCompatibility: firearms with dovetail platform",重量: [4FBE28]0.520公斤[-]\n\n相容: 帶有燕尾槽平台的槍械
-modscopeOKP7dovetail,"[09FF00]OKP-7 Reflex Sight Dovetail[-]",[09FF00]OKP-7 反射式瞄準鏡 燕尾槽[-]
-modscopeOKP7dovetailDesc,"Weight: [4FBE28]0.295kg[-]\n\nCompatibility: firearms with dovetail platform",重量: [4FBE28]0.295公斤[-]\n\n相容: 帶有燕尾槽平台的槍械
-modscopeSIGRomeo8T,"[09FF00]SIG Sauer ROMEO8T Reflex Sight[-]",[09FF00]SIG Sauer ROMEO8T 反射式瞄準鏡[-]
-modscopeSIGRomeo8TDesc,"Weight: [4FBE28]0.388kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.388公斤[-]\n\n相容: 大多數槍械
-modscopeSRS02,"[09FF00]Trijicon SRS 02 Reflex Sight[-]",[09FF00]Trijicon SRS 02 反射式瞄準鏡[-]
-modscopeSRS02Desc,"Weight: [4FBE28]0.390kg[-]\n\nCompatibility: most firearms",重量:  [4FBE28]0.390公斤[-]\n\n相容: 大多數槍支
-modscopeValdayKrechet,"[09FF00]Valday Krechet Reflex Sight[-]",[09FF00]Valday Krechet 反射式瞄準鏡[-]
-modscopeValdayKrechetDesc,"Weight: [4FBE28]0.350kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.350公斤[-]\n\n相容: 大多數槍支
-modscopeValdayPK120,"[09FF00]Valday PK-120 Reflex Sight[-]",[09FF00]Valday PK-120 反射式瞄準鏡[-]
-modscopeValdayPK120Desc,"Weight: [4FBE28]0.297kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.297公斤[-]\n\n相容: 大多數槍支
-modscopeVOMZPiladP1,"[09FF00]VOMZ Pilad P1x42 Reflex Sight[-]",[09FF00]VOMZ Pilad P1x42 反射式瞄準鏡[-]
-modscopeVOMZPiladP1Desc,"Weight: [4FBE28]0.297kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.297 公斤[-]\n\n適用範圍: 大多數槍械
-modscopeVortexRazorAMGUH1,"[09FF00]Vortex Razor AMG UH-1 Reflex Sight[-]",[09FF00]Vortex Razor AMG UH-1 反射式瞄準鏡[-]
-modscopeVortexRazorAMGUH1Desc,"Weight: [4FBE28]0.160kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.160 公斤[-]\n\n適用範圍: 大多數槍械
-modscopewalthermrsreflex,"[09FF00]Walther MRS Reflex Sight[-]",[09FF00]Walther MRS 反射式瞄準鏡[-]
-modscopewalthermrsreflexDesc,"Weight: [4FBE28]0.113kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.113 公斤[-]\n\n適用範圍: 大多數槍械
-modscopeWilcoxBossXeHP,"[09FF00]Wilcox BOSS Xe Reflex Sight[-]",[09FF00]Wilcox BOSS Xe 反射式瞄準鏡[-]
-modscopeWilcoxBossXeHPDesc,"Weight: [4FBE28]0.250kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.250 公斤[-]\n\n適用範圍: 大多數槍械
-modscopeokp7reflex,"[09FF00]OKP-7 Reflex Sight[-]",[09FF00]OKP-7 反射式瞄準鏡[-]
-modscopeokp7reflexDesc,"Weight: [4FBE28]0.295kg[-]\n\nCompatibility: most firearms",重量:  [4FBE28]0.295公斤[-]\n\n相容: 大多數槍械
+modscopeElcanSpecterHCODesc,"Weight: [4FBE28]0.433kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.433kg[-]\n\n相容性: 大多數的槍枝
+modscopeLeapersUTG,"[09FF00]Leapers UTG Reflex Sight[-]",[09FF00]Leapers UTG 反射瞄準鏡[-]
+modscopeLeapersUTGDesc,"Weight: [4FBE28]0.227kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.227kg[-]\n\n相容性: 大多數的槍枝
+modscopeNPZPK1,"[09FF00]NPZ PK-1 Obzor Reflex Sight Dovetail[-]",[09FF00]NPZ PK-1 Obzor 反射瞄準鏡燕尾導軌[-]
+modscopeNPZPK1Desc,"Weight: [4FBE28]0.520kg[-]\n\nCompatibility: firearms with dovetail platform",Weight: [4FBE28]0.520kg[-]\n\n相容性: 帶有燕尾槽平台的槍支
+modscopeOKP7dovetail,"[09FF00]OKP-7 Reflex Sight Dovetail[-]",[09FF00]OKP-7 反射瞄準鏡燕尾導軌[-]
+modscopeOKP7dovetailDesc,"Weight: [4FBE28]0.295kg[-]\n\nCompatibility: firearms with dovetail platform",Weight: [4FBE28]0.295kg[-]\n\n相容性: 帶有燕尾槽平台的槍支
+modscopeSIGRomeo8T,"[09FF00]SIG Sauer ROMEO8T Reflex Sight[-]",[09FF00]SIG Sauer ROMEO8T 反射瞄準鏡[-]
+modscopeSIGRomeo8TDesc,"Weight: [4FBE28]0.388kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.388kg[-]\n\n相容性: 大多數的槍枝
+modscopeSRS02,"[09FF00]Trijicon SRS 02 Reflex Sight[-]",[09FF00]Trijicon SRS 02 反射瞄準鏡[-]
+modscopeSRS02Desc,"Weight: [4FBE28]0.390kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.390kg[-]\n\n相容性: 大多數的槍枝
+modscopeValdayKrechet,"[09FF00]Valday Krechet Reflex Sight[-]",[09FF00]Valday Krechet 反射瞄準鏡[-]
+modscopeValdayKrechetDesc,"Weight: [4FBE28]0.350kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.350kg[-]\n\n相容性: 大多數的槍枝
+modscopeValdayPK120,"[09FF00]Valday PK-120 Reflex Sight[-]",[09FF00]Valday PK-120 反射瞄準鏡[-]
+modscopeValdayPK120Desc,"Weight: [4FBE28]0.297kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.297kg[-]\n\n相容性: 大多數的槍枝
+modscopeVOMZPiladP1,"[09FF00]VOMZ Pilad P1x42 Reflex Sight[-]",[09FF00]VOMZ Pilad P1x42 反射瞄準鏡[-]
+modscopeVOMZPiladP1Desc,"Weight: [4FBE28]0.297kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.297kg[-]\n\n相容性: 大多數的槍枝
+modscopeVortexRazorAMGUH1,"[09FF00]Vortex Razor AMG UH-1 Reflex Sight[-]",[09FF00]Vortex Razor AMG UH-1 反射瞄準鏡[-]
+modscopeVortexRazorAMGUH1Desc,"Weight: [4FBE28]0.160kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.160kg[-]\n\n相容性: 大多數的槍枝
+modscopewalthermrsreflex,"[09FF00]Walther MRS Reflex Sight[-]",[09FF00]Walther MRS 反射瞄準鏡[-]
+modscopewalthermrsreflexDesc,"Weight: [4FBE28]0.113kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.113kg[-]\n\n相容性: 大多數的槍枝
+modscopeWilcoxBossXeHP,"[09FF00]Wilcox BOSS Xe Reflex Sight[-]",[09FF00]Wilcox BOSS Xe 反射瞄準鏡[-]
+modscopeWilcoxBossXeHPDesc,"Weight: [4FBE28]0.250kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.250kg[-]\n\n相容性: 大多數的槍枝
+modscopeokp7reflex,"[09FF00]OKP-7 Reflex Sight[-]",[09FF00]OKP-7 反射瞄準鏡[-]
+modscopeokp7reflexDesc,"Weight: [4FBE28]0.295kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.295kg[-]\n\n相容性: 大多數的槍枝
 modscopeEOTech553holo,"[09FF00]EOTech 553[-]",[09FF00]EOTech 553[-]
-modscopeEOTech553holoDesc,"Weight: [4FBE28]0.349kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.349公斤[-]\n\n相容: 大多數槍械
-modscopeFNP90ringreflex,"[004CFF]P90 Ring Reflex Sight[-]",[004CFF]P90 環反射式瞄準鏡[-]
-modscopeFNP90ringreflexDesc,"Weight: [4FBE28]0.297kg[-]\n\nCompatibility: P90",重量: [4FBE28]0.297公斤[-]\n\n相容: P90
+modscopeEOTech553holoDesc,"Weight: [4FBE28]0.349kg[-]\n\nCompatibility: most firearms",Weight: [4FBE28]0.349kg[-]\n\n相容性: 大多數的槍枝
+modscopeFNP90ringreflex,"[004CFF]P90 Ring Reflex Sight[-]",[004CFF]P90 Ring 反射瞄準鏡[-]
+modscopeFNP90ringreflexDesc,"Weight: [4FBE28]0.297kg[-]\n\nCompatibility: P90",重量：[4FBE28]0.297kg[-]\n\n相容性：P90
 modscopeElcanSpecterDR,"[004CFF]ELCAN SpecterDR 1x/4x Scope[-]",[004CFF]ELCAN SpecterDR 1x/4x 瞄準鏡[-]
-modscopeElcanSpecterDRDesc,"Weight: [4FBE28]0.640kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.640公斤[-]\n\n相容: 大多數槍械
-modscopeNPZ1p78,"[09FF00]NPZ 1P78-1 2.8x Scope Dovetail[-]",[09FF00]NPZ 1P78-1 2.8x 燕尾式瞄準鏡[-]
-modscopeNPZ1p78Desc,"Weight: [4FBE28]0.640kg[-]\n\nCompatibility: firearms with dovetail platform",重量: [4FBE28]0.640公斤[-]\n\n相容: 燕尾槽平台
-modscopeNPZ1p29,"[09FF00]NPZ USP-1 Tyulpan 4x Scope Dovetail[-]",[09FF00]NPZ USP-1 Tyulpan 4倍瞄準鏡 燕尾槽[-]
-modscopeNPZ1p29Desc,"Weight: [4FBE28]0.500kg[-]\n\nCompatibility: firearms with dovetail platform",重量: [4FBE28]0.500公斤[-]\n\n相容: 帶有燕尾槽平台的槍械
-modscopeBelOMOPSO1M2,"[09FF00]BelOMO PSO-1M2-1 4x24 Scope Dovetail[-]",[09FF00]BelOMO PSO-1M2-1 4x24 瞄準鏡 燕尾槽[-]
-modscopeBelOMOPSO1M2Desc,"Weight: [4FBE28]0.600kg[-]\n\nCompatibility: firearms with dovetail platform",重量: [4FBE28]0.600公斤[-]\n\n相容: 帶有燕尾槽平台的槍械
-modscopemonstrumcompact,"[09FF00]Monstrum Compact Scope[-]",[09FF00]Monstrum 小巧型瞄準鏡[-]
-modscopemonstrumcompactDesc,"Weight: [4FBE28]0.425kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.425公斤[-]\n\n相容: 大多數槍械
+modscopeElcanSpecterDRDesc,"Weight: [4FBE28]0.640kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]0.640kg[-]\n\n相容性：大多數槍械
+modscopeNPZ1p78,"[09FF00]NPZ 1P78-1 2.8x Scope Dovetail[-]",[09FF00]NPZ 1P78-1 2.8x 瞄準鏡燕尾導軌[-]
+modscopeNPZ1p78Desc,"Weight: [4FBE28]0.640kg[-]\n\nCompatibility: firearms with dovetail platform",重量：[4FBE28]0.640kg[-]\n\n相容性：擁有燕尾導軌的平台槍械
+modscopeNPZ1p29,"[09FF00]NPZ USP-1 Tyulpan 4x Scope Dovetail[-]",[09FF00]NPZ USP-1 Tyulpan 4x 瞄準鏡燕尾導軌[-]
+modscopeNPZ1p29Desc,"Weight: [4FBE28]0.500kg[-]\n\nCompatibility: firearms with dovetail platform",重量：[4FBE28]0.500kg[-]\n\n相容性：擁有燕尾導軌的平台槍械
+modscopeBelOMOPSO1M2,"[09FF00]BelOMO PSO-1M2-1 4x24 Scope Dovetail[-]",[09FF00]BelOMO PSO-1M2-1 4x24 瞄準鏡燕尾導軌[-]
+modscopeBelOMOPSO1M2Desc,"Weight: [4FBE28]0.600kg[-]\n\nCompatibility: firearms with dovetail platform",重量：[4FBE28]0.600kg[-]\n\n相容性：擁有燕尾導軌的平台槍械
+modscopemonstrumcompact,"[09FF00]Monstrum Compact Scope[-]",[09FF00]Monstrum Compact 瞄準鏡[-]
+modscopemonstrumcompactDesc,"Weight: [4FBE28]0.425kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]0.425kg[-]\n\n相容性：大多數槍械
 modscopeSwampFoxPrism,"[09FF00]SwampFox Trihawk Prism 3x30 Scope[-]",[09FF00]SwampFox Trihawk Prism 3x30 瞄準鏡[-]
-modscopeSwampFoxPrismDesc,"Weight: [4FBE28]0.436kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.436公斤[-]\n\n相容: 大多數槍械槍械
+modscopeSwampFoxPrismDesc,"Weight: [4FBE28]0.436kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]0.436kg[-]\n\n相容性：大多數槍械
 modscopeeotechhhshybrid,"[004CFF]EOTech HHS Hybrid Sight[-]",[004CFF]EOTech HHS 混合瞄準鏡[-]
-modscopeeotechhhshybridDesc,"Weight: [4FBE28]0.635kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.635 公斤[-]\n\n相容: 大多數槍械
+modscopeeotechhhshybridDesc,"Weight: [4FBE28]0.635kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]0.635kg[-]\n\n相容性：大多數槍械
 modscopeacogta01NSN4x32,"[004CFF]Trijicon ACOG TA01NSN 4x32 Scope[-]",[004CFF]Trijicon ACOG TA01NSN 4x32 瞄準鏡[-]
-modscopeacogta01NSN4x32Desc,"Weight: [4FBE28]0.506kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.506 公斤[-]\n\n相容: 大多數槍械
+modscopeacogta01NSN4x32Desc,"Weight: [4FBE28]0.506kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]0.506kg[-]\n\n相容性：大多數槍械
 modscopeacogta11D35x,"[004CFF]Trijicon ACOG TA11D 3.5x35 Scope[-]",[004CFF]Trijicon ACOG TA11D 3.5x35 瞄準鏡[-]
-modscopeacogta11D35xDesc,"Weight: [4FBE28]0.506kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.506 公斤[-]\n\n相容: 大多數槍械
+modscopeacogta11D35xDesc,"Weight: [4FBE28]0.506kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]0.506kg[-]\n\n相容性：大多數槍械
 modscopeLeupoldMark4Hamr,"[004CFF]Leupold Mark 4 HAMR 4x24 Hybrid Scope[-]",[004CFF]Leupold Mark 4 HAMR 4x24 混合瞄準鏡[-]
-modscopeLeupoldMark4HamrDesc,"Weight: [4FBE28]0.411kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.411 公斤[-]\n\n相容: 大多數槍械槍械
+modscopeLeupoldMark4HamrDesc,"Weight: [4FBE28]0.411kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]0.411kg[-]\n\n相容性：大多數槍械
 modscopeSIGBravo4,"[004CFF]SIG Sauer BRAVO4 4x30 Scope[-]",[004CFF]SIG Sauer BRAVO4 4x30 瞄準鏡[-]
-modscopeSIGBravo4Desc,"Weight: [4FBE28]0.419kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.419公斤[-]\n\n相容: 大多數槍械
-modscopeValdayPS320,"[004CFF]Valday PS-320 1/6x Scope[-]",[004CFF]Valday PS-320 1/6倍瞄準鏡[-]
-modscopeValdayPS320Desc,"Weight: [4FBE28]0.570kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.570公斤[-]\n\n相容: 大多數槍械
+modscopeSIGBravo4Desc,"Weight: [4FBE28]0.419kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]0.419kg[-]\n\n相容性：大多數槍械
+modscopeValdayPS320,"[004CFF]Valday PS-320 1/6x Scope[-]",[004CFF]Valday PS-320 1/6x 瞄準鏡[-]
+modscopeValdayPS320Desc,"Weight: [4FBE28]0.570kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]0.570kg[-]\n\n相容性：大多數槍械
 modscopeSBPMII18x2430mm,"[004CFF]Schmidt & Bender PM II 1-8x24 Scope[-]",[004CFF]Schmidt & Bender PM II 1-8x24 瞄準鏡[-]
-modscopeSBPMII18x2430mmDesc,"Weight: [4FBE28]1.139kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]1.139公斤[-]\n\n相容: 大多數槍械
+modscopeSBPMII18x2430mmDesc,"Weight: [4FBE28]1.139kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]1.139kg[-]\n\n相容性：大多數槍械
 modscopeSBPMII320x5034mm,"[004CFF]Schmid & Bender PM II 3-20x50 Scope[-]",[004CFF]Schmid & Bender PM II 3-20x50 瞄準鏡[-]
-modscopeSBPMII320x5034mmDesc,"Weight: [4FBE28]1.240kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]1.240公斤[-]\n\n相容: 大多數槍械槍械
+modscopeSBPMII320x5034mmDesc,"Weight: [4FBE28]1.240kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]1.240kg[-]\n\n相容性：大多數槍械
 modscopeSBPMII525x5634mm,"[004CFF]Schmidt & Bender PM II 5-25x56 Scope[-]",[004CFF]Schmidt & Bender PM II 5-25x56 瞄準鏡[-]
-modscopeSBPMII525x5634mmDesc,"Weight: [4FBE28]1.420kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]1.420公斤[-]\n\n適用範圍: 大多數槍械
+modscopeSBPMII525x5634mmDesc,"Weight: [4FBE28]1.420kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]1.420kg[-]\n\n相容性：大多數槍械
 modscopeBFTac3014x2430mm,"[004CFF]Burris Fullfield TAC30 1-4x24 Scope[-]",[004CFF]Burris Fullfield TAC30 1-4x24 瞄準鏡[-]
-modscopeBFTac3014x2430mmDesc,"Weight: [4FBE28]0.726kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.726公斤[-]\n\n適用範圍: 大多數槍械
+modscopeBFTac3014x2430mmDesc,"Weight: [4FBE28]0.726kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]0.726kg[-]\n\n相容性：大多數槍械
 modscopeEOTVudu16x2430mm,"[004CFF]EOTech Vudu 1-6x24 Scope[-]",[004CFF]EOTech Vudu 1-6x24 瞄準鏡[-]
-modscopeEOTVudu16x2430mmDesc,"Weight: [4FBE28]0.816kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.816公斤[-]\n\n適用範圍: 大多數槍械
+modscopeEOTVudu16x2430mmDesc,"Weight: [4FBE28]0.816kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]0.816kg[-]\n\n相容性：大多數槍械
 modscopeLeupoldMark4LR30mm,"[004CFF]Leupold Mark4 LR 6.5-20x50 Scope[-]",[004CFF]Leupold Mark4 LR 6.5-20x50 瞄準鏡[-]
-modscopeLeupoldMark4LR30mmDesc,"Weight: [4FBE28]0.870kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.870公斤[-]\n\n相容: 大多數槍械
+modscopeLeupoldMark4LR30mmDesc,"Weight: [4FBE28]0.870kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]0.870kg[-]\n\n相容性：大多數槍械
 modscopeMarchTactical30mm,"[004CFF]March Tactical 3-24x42 Scope[-]",[004CFF]March Tactical 3-24x42 瞄準鏡[-]
-modscopeMarchTactical30mmDesc,"Weight: [4FBE28]0.890kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.890公斤[-]\n\n相容: 大多數槍械
+modscopeMarchTactical30mmDesc,"Weight: [4FBE28]0.890kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]0.890kg[-]\n\n相容性：大多數槍械
 modscopeSIGTango6T16x2430mm,"[004CFF]SIG Sauer TANGO6T 1-6x24 Scope[-]",[004CFF]SIG Sauer TANGO6T 1-6x24 瞄準鏡[-]
-modscopeSIGTango6T16x2430mmDesc,"Weight: [4FBE28]0.876kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.876公斤[-]\n\n相容: 大多數槍械
+modscopeSIGTango6T16x2430mmDesc,"Weight: [4FBE28]0.876kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]0.876kg[-]\n\n相容性：大多數槍械
 modscopeRazorHDGen216x2430mm,"[004CFF]Vortex Razor HD Gen.2 1-6x24 Scope[-]",[004CFF]Vortex Razor HD Gen.2 1-6x24 瞄準鏡[-]
-modscopeRazorHDGen216x2430mmDesc,"Weight: [4FBE28]0.820kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.820公斤[-]\n\n相容: 大多數槍械
+modscopeRazorHDGen216x2430mmDesc,"Weight: [4FBE28]0.820kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]0.820kg[-]\n\n相容性：大多數槍械
 modscopeNFATACR735x5634mm,"[004CFF]Nightforce ATACR 7-35x56 Scope[-]",[004CFF]Nightforce ATACR 7-35x56 瞄準鏡[-]
-modscopeNFATACR735x5634mmDesc,"Weight: [4FBE28]1.363kg[-]\n\nCompatibility: most firearms",重量:  [4FBE28]1.363公斤[-]\n\n相容: 大多數槍械
+modscopeNFATACR735x5634mmDesc,"Weight: [4FBE28]1.363kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]1.363kg[-]\n\n相容性：大多數槍械
 modscopeHensoldtFF416x5634mm,"[004CFF]Hensoldt FF 4-16x56 Scope[-]",[004CFF]Hensoldt FF 4-16x56 瞄準鏡[-]
-modscopeHensoldtFF416x5634mmDesc,"Weight: [4FBE28]1.150kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]1.150公斤[-]\n\n相容: 大多數槍械
-modscopeNCStarADO,"[004CFF]NcSTAR ADO P4 3-9x42 Hybrid Scope[-]",[004CFF]NcSTAR ADO P4 3-9x42 混合式瞄準鏡[-]
-modscopeNCStarADODesc,"Weight: [4FBE28]0.595kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.595公斤[-]\n\n相容: 大多數槍械
-modscopeKMZ1p69Weaver,"[004CFF]KMZ 1P69 3-10x Scope Weaver[-]",[004CFF]KMZ 1P69 3-10x 韋弗式瞄準鏡[-]
-modscopeKMZ1p69WeaverDesc,"Weight: [4FBE28]0.940kg[-]\n\nCompatibility: most firearms",重量: [4FBE28]0.940公斤[-]\n\n相容: 大多數槍械
-modscopeKMZ1p69Dovetail,"[004CFF]KMZ 1P69 3-10x Scope Dovetail[-]",[004CFF]KMZ 1P69 3-10x 燕尾槽式瞄準鏡[-]
-modscopeKMZ1p69DovetailDesc,"Weight: [4FBE28]0.940kg[-]\n\nCompatibility: firearms with dovetail platform",重量:  [4FBE28]0.940公斤[-]\n\n適用範圍: 帶有燕尾槽平台的槍械
-modscopeG36HensoldtCarryHandle3x,"[004CFF]HK G36 Hensoldt HKV 3x carry handle[-]",[004CFF]HK G36 Hensoldt HKV 3倍鏡提把[-]
-modscopeG36HensoldtCarryHandle3xDesc,"Weight: [4FBE28]0.420kg[-]\n\nCompatibility: G36",重量: [4FBE28]0.420公斤[-]\n\n適用範圍: G36
-modscopeaimpointAcroP1canted,[09FF00]Aimpoint ACRO P-1 reflex sight (Canted)[-],[09FF00]Aimpoint ACRO P-1 反射式瞄準鏡（傾斜式）[-]
-modscopeaimpointAcroP1cantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. ",相同的瞄準鏡，安裝在備用偏移瞄準鏡座上，可快速瞄準近距離目標。使用“F”鍵啟動。
-modscopeaimpointMicroH2canted,[09FF00]Aimpoint Micro H-2 reflex sight (Canted)[-],[09FF00]Aimpoint Micro H-2 反射式瞄準鏡（傾斜式）[-]
-modscopeaimpointMicroH2cantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. ",相同的瞄準鏡，安裝在備用偏移瞄準鏡座上，可快速瞄準近距離目標。使用“F”鍵啟動。
-modscopeaimpointMicroT1canted,[09FF00]Aimpoint Micro T-1 reflex sight (Canted)[-],[09FF00]Aimpoint Micro T-1 反射瞄準鏡（傾斜式）[-]
-modscopeaimpointMicroT1cantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. ",相同的光學元件，安裝在備用偏移瞄準鏡座上，用於快速近距離目標瞄準。使用“F”鍵啟動。
-modscopeBelOMOpk06canted,[09FF00]BelOMO PK-06 reflex sight (Canted)[-],[09FF00]BelOMO PK-06 反射瞄準鏡（傾斜式）[-]
-modscopeBelOMOpk06cantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. ",相同的光學元件，安裝在備用偏移瞄準鏡座上，用於快速近距離目標瞄準。使用“F”鍵啟動。
-modscopeburrisfastfirecanted,[09FF00]Burris FastFire 3 reflex sight (Canted)[-],[09FF00]Burris FastFire 3 反射瞄準鏡（傾斜式）[-]
-modscopeburrisfastfirecantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. ",相同的光學元件，安裝在備用偏移瞄準鏡座上，用於快速近距離目標瞄準。使用“F”鍵啟動。
-modscopeleupolddeltapointcanted,[09FF00]Leupold DeltaPoint reflex sight (Canted)[-],[09FF00]Leupold DeltaPoint 反射瞄準鏡（傾斜式）[-]
-modscopeleupolddeltapointcantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. ",相同的光學元件，安裝在備用偏移瞄準鏡座上，用於快速近距離目標瞄準。使用“F”鍵啟動。
-modscopeSIGromeo4canted,[09FF00]SIG Sauer ROMEO4 reflex sight (Canted)[-],[09FF00]SIG Sauer ROMEO4 反射式瞄準鏡（傾斜式）[-]
-modscopeSIGromeo4cantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. ",相同的瞄準鏡，安裝在備用偏移瞄準鏡座上，可快速瞄準近距離目標。使用“F”鍵啟動。
-modscopeRMRcanted,[09FF00]Trijicon RMR reflex sight (Canted)[-],[09FF00]Trijicon RMR 反射式瞄準鏡（傾斜式）[-]
-modscopeRMRcantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. ",相同的瞄準鏡，安裝在備用偏移瞄準鏡座上，可快速瞄準近距離目標。使用“F”鍵啟動。
+modscopeHensoldtFF416x5634mmDesc,"Weight: [4FBE28]1.150kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]1.150kg[-]\n\n相容性：大多數槍械
+modscopeNCStarADO,"[004CFF]NcSTAR ADO P4 3-9x42 Hybrid Scope[-]",[004CFF]NcSTAR ADO P4 3-9x42 混合瞄準鏡[-]
+modscopeNCStarADODesc,"Weight: [4FBE28]0.595kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]0.595kg[-]\n\n相容性：大多數槍械
+modscopeKMZ1p69Weaver,"[004CFF]KMZ 1P69 3-10x Scope Weaver[-]",[004CFF]KMZ 1P69 3-10x 瞄準鏡 Weaver[-]
+modscopeKMZ1p69WeaverDesc,"Weight: [4FBE28]0.940kg[-]\n\nCompatibility: most firearms",重量：[4FBE28]0.940kg[-]\n\n相容性：大多數槍械
+modscopeKMZ1p69Dovetail,"[004CFF]KMZ 1P69 3-10x Scope Dovetail[-]",[004CFF]KMZ 1P69 3-10x 瞄準鏡燕尾導軌[-]
+modscopeKMZ1p69DovetailDesc,"Weight: [4FBE28]0.940kg[-]\n\nCompatibility: firearms with dovetail platform",重量：[4FBE28]0.940kg[-]\n\n相容性：擁有燕尾導軌的平台槍械
+modscopeG36HensoldtCarryHandle3x,"[004CFF]HK G36 Hensoldt HKV 3x carry handle[-]",[004CFF]HK G36 Hensoldt HKV 3x 握柄瞄準鏡[-]
+modscopeG36HensoldtCarryHandle3xDesc,"Weight: [4FBE28]0.420kg[-]\n\nCompatibility: G36",重量：[4FBE28]0.420kg[-]\n\n相容性：G36
+modscopeaimpointAcroP1canted,[09FF00]Aimpoint ACRO P-1 reflex sight (Canted)[-],[09FF00]Aimpoint ACRO P-1 反射瞄準鏡 (傾斜)[-]
+modscopeaimpointAcroP1cantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. ",相同光學瞄具，安裝於備用偏移瞄準架，用於快速近距離目標捕捉。按 'F' 鍵啟用。
+modscopeaimpointMicroH2canted,[09FF00]Aimpoint Micro H-2 reflex sight (Canted)[-],[09FF00]Aimpoint Micro H-2 反射瞄準鏡 (傾斜)[-]
+modscopeaimpointMicroH2cantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. ",相同光學瞄具，安裝於備用偏移瞄準架，用於快速近距離目標捕捉。按 'F' 鍵啟用。
+modscopeaimpointMicroT1canted,[09FF00]Aimpoint Micro T-1 reflex sight (Canted)[-],[09FF00]Aimpoint Micro T-1 反射瞄準鏡 (傾斜)[-]
+modscopeaimpointMicroT1cantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. ",相同光學瞄具，安裝於備用偏移瞄準架，用於快速近距離目標捕捉。按 'F' 鍵啟用。
+modscopeBelOMOpk06canted,[09FF00]BelOMO PK-06 reflex sight (Canted)[-],[09FF00]BelOMO PK-06 反射瞄準鏡 (傾斜)[-]
+modscopeBelOMOpk06cantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. ",相同光學瞄具，安裝於備用偏移瞄準架，用於快速近距離目標捕捉。按 'F' 鍵啟用。
+modscopeburrisfastfirecanted,[09FF00]Burris FastFire 3 reflex sight (Canted)[-],[09FF00]Burris FastFire 3 反射瞄準鏡 (傾斜)[-]
+modscopeburrisfastfirecantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. ",相同光學瞄具，安裝於備用偏移瞄準架，用於快速近距離目標捕捉。按 'F' 鍵啟用。
+modscopeleupolddeltapointcanted,[09FF00]Leupold DeltaPoint reflex sight (Canted)[-],[09FF00]Leupold DeltaPoint 反射瞄準鏡 (傾斜)[-]
+modscopeleupolddeltapointcantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. ",相同光學瞄具，安裝於備用偏移瞄準架，用於快速近距離目標捕捉。按 'F' 鍵啟用。
+modscopeSIGromeo4canted,[09FF00]SIG Sauer ROMEO4 reflex sight (Canted)[-],[09FF00]SIG Sauer ROMEO4 反射瞄準鏡 (傾斜)[-]
+modscopeSIGromeo4cantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. ",相同光學瞄具，安裝於備用偏移瞄準架，用於快速近距離目標捕捉。按 'F' 鍵啟用。
+modscopeRMRcanted,[09FF00]Trijicon RMR reflex sight (Canted)[-],[09FF00]Trijicon RMR 反射瞄準鏡 (傾斜)[-]
+modscopeRMRcantedDesc,"Same optic, mounted on a back-up offset sight mount for quick closed-range target acquisition. Use 'F' key to activate. ",相同光學瞄具，安裝於備用偏移瞄準架，用於快速近距離目標捕捉。按 'F' 鍵啟用。
 modSKStactickit, [09FF00]SKS Tactical Upgrade Kit[-],[09FF00]SKS 戰術升級套件[-]
-modSKStactickitDesc,"Parts to upgrade your SKS. Allowing the installation of some AR-15 styled stocks, foregrip, bipod, laser/light and canted sight. ",用於升級 SKS 的零件。可安裝部分 AR-15 式槍托、前握把、兩腳架、雷射/照明燈和傾斜式瞄準鏡。
-modmagmp9Cmag100,"[BB00FF]UZI/MP9 Custom 100-Round C-Mag[-]",[BB00FF]UZI/MP9 客製 100 發 C-Mag[-]
-modmagmp9Cmag100Desc,"Weight: [4FBE28]1.180kg[-]\nMagazine Size: [4FBE28]100[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: MP-9N, UZI, UZI Pro SMG",重量: [4FBE28]1.180kg[-]\n彈匣容量: [4FBE28]100[-]\n裝填時間: [FF4F33]+20%[-]\n\n相容性: MP-9N、UZI、UZI Pro 衝鋒槍
+modSKStactickitDesc,"Parts to upgrade your SKS. Allowing the installation of some AR-15 styled stocks, foregrip, bipod, laser/light and canted sight. ",升級 SKS 的零件，允許安裝部分 AR-15 風格槍托、前握把、雙腳架、雷射/燈光與傾斜瞄準鏡。
+modmagmp9Cmag100,"[BB00FF]UZI/MP9 Custom 100-Round C-Mag[-]",[BB00FF]UZI/MP9 客製化 100 發 C-Mag 彈匣[-]
+modmagmp9Cmag100Desc,"Weight: [4FBE28]1.180kg[-]\nMagazine Size: [4FBE28]100[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: MP-9N, UZI, UZI Pro SMG",重量：[4FBE28]1.180kg[-]\n彈匣容量：[4FBE28]100[-]\n裝填時間：[FF4F33]+20%[-]\n\n相容性：MP-9N、UZI、UZI Pro SMG
 modhandguardUziRailedForegrip, [09FF00]UZI Railed Vertical Foregrip[-],[09FF00]UZI 導軌式垂直前握把[-]
-modhandguardUziRailedForegripDesc,"Allowing the installation of [4FBE28]Laser/Light[-] on the standard UZI\nErgonomics: [4FBE28]+15%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\n\nCompatibility: UZI",標準 UZI 上可安裝 [4FBE28]雷射/照明[-]\n人體工學: [4FBE28]+15%[-]\n腰射精度: [4FBE28]+15%[-]\n\n相容性: UZI
-modsilencerco9ospreyDesc,"Weight: [4FBE28]0.270kg[-]\nRecoil: [4FBE28]-10%[-]\nErgonomics: [FF4F33]-10%[-]\nHipfire Accuracy: [FF4F33]-10%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: MP-5, MP9-N, PP-19-01, Vector 9, UZI, STM-9, Glock 17, P226R, M9A3","重量: [4FBE28]0.270kg[-]\n後座力: [4FBE28]-10%[-]\n人體工學:  [FF4F33]-10%[-]\n腰射精度: [FF4F33]-10%[-]\n耐久燃燒: [2433]+n,000-100,000636000,00099 PP-19-01, Vector 9, UZI, STM-9, Glock 17, P226R, M9A3"
-modsilencersigsrd9Desc,"Weight: [4FBE28]0.255kg[-]\nRecoil: [4FBE28]-15%[-]\nErgonomics: [FF4F33]-9%[-]\nHipfire Accuracy: [FF4F33]-9%[-]\nDurability Burn: [FF4F33]+20%[-]\n\nCompatibility: MP-5, MP9-N, PP-19-01, Vector 9, UZI, STM-9, Glock 17, P226R, M9A3","重量: [4FBE28]0.255kg[-]\n後座力: [4FBE28]-15%[-]\n人體工學: [FF4F33]-9%[-]\n腰射精度: [FF4F33]-9%[-]\n耐久燃燒: [FF4%F PP-19-01, Vector 9、UZI、STM-9、Glock 17、P226R、M9A3"
+modhandguardUziRailedForegripDesc,"Allowing the installation of [4FBE28]Laser/Light[-] on the standard UZI\nErgonomics: [4FBE28]+15%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\nRecoil: [4FBE28]-7%[-]\n\nCompatibility: UZI",允許在標準 UZI 上安裝 [4FBE28]雷射/燈光[-]\n人機功效：[4FBE28]+15%[-]\n腰射準確度：[4FBE28]+15%[-]\n後座力：[4FBE28]-7%[-]\n\n相容性：UZI
+modbipodrailRexana,"[BB00FF]BT10 V8 Atlas Bipod[-]",[BB00FF]BT10 V8 Atlas 雙腳架[-]
+modbipodrailRexanaDesc,"Weight: [4FBE28]0.310kg[-]\nErgonomics: [FF4F33]-10%[-] / [4FBE28]+25%[-] when deployed\nHipfire Accuracy: [FF4F33]-12%[-]\nRecoil: [4FBE28]-50%[-] when deployed\n\nCompatibility: many rifles and STM-9",重量：[4FBE28]0.310kg[-]\n人機功效：[FF4F33]-10%[-] / [4FBE28]+25%[-] 展開時\n腰射準確度：[FF4F33]-12%[-]\n後座力：[4FBE28]-50%[-] 展開時\n\n相容性：多數步槍及 STM-9
+modgriphksturmgriff,"[09FF00]HK Sturmgriff Vertical Grip[-]",[09FF00]HK Sturmgriff 垂直握把[-]
+modgriphksturmgriffDesc,"Weight: [4FBE28]0.070kg[-]\nErgonomics: [4FBE28]+10%[-]\nHipfire Accuracy: [4FBE28]+5%[-]\nRecoil: [4FBE28]-4%[-]\n\nCompatibility: General grip fits on most firearms. Enables side attachments like laser/light on guns with shorter handguards.",重量：[4FBE28]0.070kg[-]\n人機功效：[4FBE28]+10%[-]\n腰射準確度：[4FBE28]+5%[-]\n後座力：[4FBE28]-4%[-]\n\n相容性：通用握把適用於大多數槍械。允許在短護木的槍械上安裝側邊配件，如雷射/燈光。
+modgripmagpulrvg,"[004CFF]Magpul Railed Vertical Grip[-]",[004CFF]Magpul Railed 垂直握把[-]
+modgripmagpulrvgDesc,"Weight: [4FBE28]0.080kg[-]\nErgonomics: [4FBE28]+20%[-]\nHipfire Accuracy: [4FBE28]+10%[-]\nRecoil: [4FBE28]-6%[-]\n\nCompatibility: General grip fits on most firearms. Enables side attachments like laser/light on guns with shorter handguards.",重量：[4FBE28]0.080kg[-]\n人機功效：[4FBE28]+20%[-]\n腰射準確度：[4FBE28]+10%[-]\n後座力：[4FBE28]-6%[-]\n\n相容性：通用握把適用於大多數槍械。允許在短護木的槍械上安裝側邊配件，如雷射/燈光。
+modgripzenitrk1,"[BB00FF]Zenit RK-1 Vertical Grip[-]",[BB00FF]Zenit RK-1 垂直握把[-]
+modgripzenitrk1Desc,"Weight: [4FBE28]0.170kg[-]\nErgonomics: [4FBE28]+30%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\nRecoil: [4FBE28]-10%[-]\n\nCompatibility: General grip fits on most firearms. Enables side attachments like laser/light on guns with shorter handguards.",重量：[4FBE28]0.170kg[-]\n人機功效：[4FBE28]+30%[-]\n腰射準確度：[4FBE28]+15%[-]\n後座力：[4FBE28]-10%[-]\n\n相容性：通用握把適用於大多數槍械。允許在短護木的槍械上安裝側邊配件，如雷射/燈光。
+modgripzenitb25urk1,"[BB00FF]Zenit RK-1 grip on B-25U Mount [-]",[BB00FF]Zenit RK-1 握把搭配 B-25U 安裝座[-]
+modgripzenitb25urk1Desc,"Weight: [4FBE28]0.180kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+20%[-]\nRecoil: [4FBE28]-8%[-]\n\nCompatibility: General grip fits on most firearms. Enables side attachments like laser/light on guns with shorter handguards.",重量：[4FBE28]0.180kg[-]\n人機功效：[4FBE28]+25%[-]\n腰射準確度：[4FBE28]+20%[-]\n後座力：[4FBE28]-8%[-]\n\n相容性：通用握把適用於大多數槍械。允許在短護木的槍械上安裝側邊配件，如雷射/燈光。
+gunusp45tac,"USP 45 Tactical",USP 45 Tactical
+gunusp45tacDesc,"HK USP 45 Tactical Pistol\n\nUses Ammo Type: [D3CE1D].45ACP[-], can take a silencer, can only take 'Burris FastFire3' reflex sight.\nRepaired with: [D3CE1D]Weapon Repair Kit[-]",HK USP 45 Tactical 手槍\n\n使用彈藥類型：[D3CE1D].45ACP[-]，可裝消音器，僅可安裝 'Burris FastFire3' 反射瞄準鏡。\n修復方式：[D3CE1D]武器修理包[-]
+gunusp45match,"USP 45 w Match Compensator",USP 45 搭配 Match 補償器
+gunusp45matchDesc,"HK USP 45 Pistol with Match Compensator\n\nUses Ammo Type: [D3CE1D].45ACP[-], can't take silencers, can only take 'Burris FastFire3' reflex sight.\nRepaired with: [D3CE1D]Weapon Repair Kit[-]",HK USP 45 手槍搭配 Match 補償器\n\n使用彈藥類型：[D3CE1D].45ACP[-]，不可裝消音器，僅可安裝 'Burris FastFire3' 反射瞄準鏡。\n修復方式：[D3CE1D]武器修理包[-]
 modsilencersigsrdqd, [FFD700]SIG SRD-QD Sound Suppressor[-],[FFD700]SIG SRD-QD 消音器[-]
-gunusp45tac,"USP 45 Tactical",USP 45 戰術手槍
-gunusp45tacDesc,"HK USP 45 Tactical Pistol\n\nUses Ammo Type: [D3CE1D].45ACP[-], can take a silencer.\nRepaired with: [D3CE1D]Weapon Repair Kit[-]",HK USP 45 戰術手槍\n\n使用彈藥類型: [D3CE1D].45ACP[-]，可安裝消音器。 \n使用以下工具修復: [D3CE1D]武器修理包[-]
-gunusp45match,"USP 45 w Match Compensator",USP 45 帶比賽補償器
-gunusp45matchDesc,"HK USP 45 Pistol with Match Compensator\n\nUses Ammo Type: [D3CE1D].45ACP[-], can't take silencers.\nRepaired with: [D3CE1D]Weapon Repair Kit[-]",HK USP 45 附比賽補償器的手槍\n\n使用彈藥類型: [D3CE1D].45ACP[-]，不可安裝消音器。 \n使用以下工具修復: [D3CE1D]武器修理包[-]
-modsilencerco45komega,"[09FF00]SilencerCo 45K Omega[-]",[09FF00]SilencerCo 45K Omega[-]
-modsilencerump45bt,"[09FF00]UMP-45 B&T Sound Suppressor[-]",[09FF00]UMP-45 B&T 消音器消音器[-]
-modsilencerco45komegaDesc,"Weight: [4FBE28]0.270kg[-]\nRecoil: [4FBE28]-20%[-]\nErgonomics: [FF4F33]-10%[-]\nHipfire Accuracy: [FF4F33]-10%[-]\nDurability Burn: [FF4F33]+15%[-]\n\nCompatibility: Vector 45, M45A1, M1911, USP 45 Tactical ",重量: [4FBE28]0.270kg[-]\n後座力: [4FBE28]-20%[-]\n人體工學: [FF4F33]-10%[-]\n腰射精度: [FF4F33]-10%[-]\n耐久度: [適用槍的耐久度； 45、M45A1、M1911、USP 45 Tactical
-modsilencerump45btDesc,"Weight: [4FBE28]0.453kg[-]\nRecoil: [4FBE28]-20%[-]\nErgonomics: [FF4F33]-10%[-]\nHipfire Accuracy: [FF4F33]-10%[-]\nDurability Burn: [FF4F33]+15%[-]\n\nCompatibility: UMP-45",重量: [4FBE28]0.453kg[-]\n後座力: [4FBE28]-20%[-]\n人體工學: [FF4F33]-10%[-]\n腰部射精度: [FF4F33]-10%[-]\n耐久度: 相容性 [14033]
-modsilencertt33makeshift,"TT-33 Makeshift Sound Suppressor",TT-33 臨時消音器
+modsilencertt33makeshift,"TT-33 Makeshift Sound Suppressor",TT-33 簡易消音器
 modmuzzlettlaserdtk,"TT Laser DTK",TT Laser DTK
 modsilencerstechkinstd,"Stechkin Silencer",Stechkin 消音器
 modsilencerpp9klin,"PP-9 Klin Silencer",PP-9 Klin 消音器
-modmuzzlemp5btqdbrake,"[09FF00]MP5 B&T QD Muzzle Brake[-]",[09FF00]MP5 B&T QD 槍口制退器[-]
-modmuzzlemp5noveske,"[09FF00]MP5 Noveske-style Muzzle Brake[-]",[09FF00]MP5 Noveske 式槍口制退器[-]
+modmuzzlemp5btqdbrake,"[09FF00]MP5 B&T QD Muzzle Brake[-]",[09FF00]MP5 B&T QD 制退器[-]
+modmuzzlemp5noveske,"[09FF00]MP5 Noveske-style Muzzle Brake[-]",[09FF00]MP5 Noveske 風格制退器[-]
 modsilencerco46multi,"SilencerCo 46 Multi-caliber Sound Suppressor",SilencerCo 46 多口徑消音器
-modsilencerco9osprey,"[09FF00]SilencerCo Osprey 9x19 Sound Suppressor [-]",[09FF00]SilencerCo Osprey 9x19 消音器 [-]
-modsilencersigsrd9,"[004CFF]SIG SRD 9×19 Sound Suppressor[-]",[004CFF]SIG SRD 9x19 消音器[-]
-modmuzzlevityazbrakecompensator,"[09FF00]Vityaz Muzzle Brake-Compensator[-]",[09FF00]Vityaz 槍口制退器-補償器[-]
+modsilencerco9osprey,"[09FF00]SilencerCo Osprey 9x19 Sound Suppressor [-]",[09FF00]SilencerCo Osprey 9x19 消音器[-]
+modsilencersigsrd9,"[004CFF]SIG SRD 9×19 Sound Suppressor[-]",[004CFF]SIG SRD 9×19 消音器[-]
+modmuzzlevityazbrakecompensator,"[09FF00]Vityaz Muzzle Brake-Compensator[-]",[09FF00]Vityaz 制退補償器[-]
 modsilencermpxsd,"[BB00FF]MPX-SD Sound Suppressor[-]",[BB00FF]MPX-SD 消音器[-]
-modmuzzlestm9brake,"[BB00FF]STM-9 Muzzle Brake[-]",[BB00FF]STM-9 槍口制退器[-]
-modmuzzlegl17carver4port,"Glock 17 Carver 4-Port Brake",Glock 17 Carver四通制退器
-modmuzzlep226tjcustom,"P226 TJ Custom Muzzle Brake",P226 TJ 客製化槍口制退器
+modmuzzlestm9brake,"[BB00FF]STM-9 Muzzle Brake[-]",[BB00FF]STM-9 制退器[-]
+modmuzzlegl17carver4port,"Glock 17 Carver 4-Port Brake",Glock 17 Carver 4-Port 補償器
+modmuzzlep226tjcustom,"P226 TJ Custom Muzzle Brake",P226 TJ Custom 制退器
 modsilencersr1mpstd,"SR-1MP Silencer",SR-1MP 消音器
 modsilencersr2msv1381,"[004CFF]SR-2M Sound Suppressor (SV-1381)[-]",[004CFF]SR-2M 消音器 (SV-1381)[-]
-modmuzzle1911anarchyoutdoors,"1911 Anarchy Outdoors Muzzle Brake",1911 Anarchy Outdoors 槍口制退器
+modmuzzle1911anarchyoutdoors,"1911 Anarchy Outdoors Muzzle Brake",1911 Anarchy Outdoors 制退器
 modsilencermp7rotex2,"[004CFF]MP7 Rotex-II Sound Suppressor[-]",[004CFF]MP7 Rotex-II 消音器[-]
-modsilencerp90attenuator,"[004CFF]P90 Attenuator Sound Suppressor[-]",[004CFF]P90 衰減器消音器[-]
+modsilencerp90attenuator,"[004CFF]P90 Attenuator Sound Suppressor[-]",[004CFF]P90 Attenuator 消音器[-]
 modsilencer57gemtech,"Gemtech SFN-57 Sound Suppressor",Gemtech SFN-57 消音器
 modsilencerak74tgpa,"[09FF00]AK-74 TGP-A Sound Suppressor[-]",[09FF00]AK-74 TGP-A 消音器[-]
-modmuzzleak74hexagonreactor,"[004CFF]AK-74 Hexagon Reactor Muzzle Brake[-]",[004CFF]AK-74 六角反應器槍口制退器[-]
-modsilencerak74hexagonwaffle,"[004CFF]AK-74 Hexagon Wafflemaker[-]",[004CFF]AK-74 六角華夫餅機[-]
-modmuzzleak74jetmbr,"[BB00FF]AK-74 SRVV MBR Jet Muzzle Brake[-]",[BB00FF]AK-74 SRVV MBR 噴射槍口制退器[-]
-modmuzzleak74zenitdtk1,"[BB00FF]AK Zenit DTK-1 Muzzle Brake[-]",[BB00FF]AK Zenit DTK-1 槍口制退器[-]
+modmuzzleak74jetmbr,"[BB00FF]AK-74 SRVV MBR Jet Muzzle Brake[-]",[BB00FF]AK-74 SRVV MBR Jet 制退器[-]
+modmuzzleak74zenitdtk1,"[09FF00]AK Zenit DTK-1 Muzzle Brake[-]",[09FF00]AK Zenit DTK-1 制退器[-]
 modsilencerhexagonAK,"[BB00FF]AK Hexagon 5.45x39/7.62x39 Sound Suppressor[-]",[BB00FF]AK Hexagon 5.45x39/7.62x39 消音器[-]
-modmuzzleak12std,"[BB00FF]AK-12 Muzzle Brake[-]",[BB00FF]AK-12 槍口制退器[-]
+modmuzzleak12std,"[BB00FF]AK-12 Muzzle Brake[-]",[BB00FF]AK-12 制退器[-]
 modsilencerak12std,"[BB00FF]AK-12 Silencer[-]",[BB00FF]AK-12 消音器[-]
-modmuzzlerpdbrakecompensator,"[BB00FF]RPD Muzzle Brake-Compensator[-]",[BB00FF]RPD 槍口制退器/補償器[-]
-modmuzzle_mosin_tacfire_tanker_style_762x54r,"[09FF00]Mosin Tacfire Tanker Muzzle Brake[-]",[09FF00]Mosin Tacfire 坦克槍口制退器[-]
+modmuzzlerpdbrakecompensator,"[BB00FF]RPD Muzzle Brake-Compensator[-]",[BB00FF]RPD 制退補償器[-]
+modmuzzle_mosin_tacfire_tanker_style_762x54r,"[09FF00]Mosin Tacfire Tanker Muzzle Brake[-]",[09FF00]Mosin Tacfire Tanker 制退器[-]
 modsilencer_mosin_bramit_std_762x54r,"[09FF00]Mosin Bramit Sound Suppressor[-]",[09FF00]Mosin Bramit 消音器[-]
 modsilencerSV98std,"[004CFF]SV-98 Sound Suppressor[-]",[004CFF]SV-98 消音器[-]
-modmuzzleSV98mk2SRVV,"[004CFF]SV-98 SRVV Muzzle Brake-Compensator[-]",[004CFF]SV-98 SRVV 槍口制退器/補償器[-]
-modSVDmuzzlebrakecompensator,"[004CFF]SVDS Muzzle Brake-Compensator[-]",[004CFF]SVDS 槍口制退器/補償器[-]
+modmuzzleSV98mk2SRVV,"[004CFF]SV-98 SRVV Muzzle Brake-Compensator[-]",[004CFF]SV-98 SRVV 制退補償器[-]
+modSVDmuzzlebrakecompensator,"[004CFF]SVDS Muzzle Brake-Compensator[-]",[004CFF]SVDS 制退補償器[-]
 modsilencerSVDrotor43,"[004CFF]SVDS Rotor 43 Sound Suppressor[-]",[004CFF]SVDS Rotor 43 消音器[-]
-modmuzzlepkzenitdtk,"[FFD700]PK Zenit DTK-1P Muzzle Brake[-]",[FFD700]PK Zenit DTK-1P槍口制退器[-]
-modmuzzleash12std,"[BB00FF]ASH-12 Muzzle Brake[-]",[BB00FF]ASH-12 槍口制退器[-]
+modmuzzlepkzenitdtk,"[FFD700]PK Zenit DTK-1P Muzzle Brake[-]",[FFD700]PK Zenit DTK-1P 制退器[-]
+modmuzzleash12std,"[BB00FF]ASH-12 Muzzle Brake[-]",[BB00FF]ASH-12 制退器[-]
 modsilencerash12std,"[BB00FF]ASH-12 Silencer[-]",[BB00FF]ASH-12 消音器[-]
 modsilencergriffinm4sdk,"[09FF00]Griffin M4SD-K Sound Suppressor[-]",[09FF00]Griffin M4SD-K 消音器[-]
 modsilencersocomrc2,"[004CFF]SOCOM556-RC2 Sound Suppressor[-]",[004CFF]SOCOM556-RC2 消音器[-]
-modmuzzle_ar15_ferfrans_muzzle_brake_556x45,"[09FF00]AR-15 Ferfrans CQB Muzzle Brake[-]",[09FF00]AR-15 Ferfrans CQB 槍口制退器[-]
+modmuzzle_ar15_ferfrans_muzzle_brake_556x45,"[09FF00]AR-15 Ferfrans CQB Muzzle Brake[-]",[09FF00]AR-15 Ferfrans CQB 制退器[-]
 modmuzzle_ar15_double_star_carlson_tac_comp_556x45,"[004CFF]AR-15 DoubleStar CTC Compensator[-]",[004CFF]AR-15 DoubleStar CTC 補償器[-]
-modmuzzle_ar15_alientech_gubich_muzzle_brake_556x45,"[BB00FF]AR-15 AlienTech Muzzle Brake[-]",[BB00FF]AR-15 AlienTech 槍口制退器[-]
-modmuzzleAR10thunderbeast30cb,"[004CFF]AR-10 Thunder Beast 30CB Muzzle Brake[-]",[004CFF]AR-10 Thunder Beast 30CB 槍口制退器[-]
-modmuzzleAR15thunderbeast223cb,"[004CFF]AR-15 Thunder Beast 223CB Muzzle Brake[-]",[004CFF]AR-15 Thunder Beast 223CB 槍口制退器[-]
+modmuzzle_ar15_alientech_gubich_muzzle_brake_556x45,"[BB00FF]AR-15 AlienTech Muzzle Brake[-]",[BB00FF]AR-15 AlienTech 制退器[-]
+modmuzzleAR10thunderbeast30cb,"[004CFF]AR-10 Thunder Beast 30CB Muzzle Brake[-]",[004CFF]AR-10 Thunder Beast 30CB 制退器[-]
+modmuzzleAR15thunderbeast223cb,"[004CFF]AR-15 Thunder Beast 223CB Muzzle Brake[-]",[004CFF]AR-15 Thunder Beast 223CB 制退器[-]
 modsilencerthunderbeastultra5,"[004CFF]Thunder Beast Ultra 5 Sound Suppressor[-]",[004CFF]Thunder Beast Ultra 5 消音器[-]
-modsilencersdnaacmulti,"[FFD700]AAC SDN-6 Sound Suppressor[-]",[FFD700]AAC SDN-6 消音器消音器[-]
-modmuzzle_ar10_precision_armament_m11_severe_duty_muzzle_brake_762x51,"[004CFF]AR-10 PA M11 Severe-Duty Muzzle Brake[-]",[004CFF]AR-10 PA M11 重型槍口制退器[-]
-modmuzzleAR10kacqdc,"[BB00FF]AR-10 KAC QDC Muzzle Brake[-]",[BB00FF]AR-10 KAC QDC 槍口制退器[-]
+modsilencersdnaacmulti,"[FFD700]AAC SDN-6 Sound Suppressor[-]",[FFD700]AAC SDN-6 消音器[-]
+modmuzzle_ar10_precision_armament_m11_severe_duty_muzzle_brake_762x51,"[004CFF]AR-10 PA M11 Severe-Duty Muzzle Brake[-]",[004CFF]AR-10 PA M11 Severe-Duty 制退器[-]
+modmuzzleAR10kacqdc,"[BB00FF]AR-10 KAC QDC Muzzle Brake[-]",[BB00FF]AR-10 KAC QDC 制退器[-]
 modsilencerprskacqdc,"[BB00FF]KAC PRS/QDC Sound Suppressor[-]",[BB00FF]KAC PRS/QDC 消音器[-]
-modmuzzle_ar10_lantac_dgn762b_muzzle_brake_762x51,"[FFD700]AR-10 Lantac Dragon Muzzle Brake-Compensator[-]",[FFD700]AR-10 Lantac Dragon 槍口制退器補償器[-]
+modmuzzle_ar10_lantac_dgn762b_muzzle_brake_762x51,"[FFD700]AR-10 Lantac Dragon Muzzle Brake-Compensator[-]",[FFD700]AR-10 Lantac Dragon 制動補償器[-]
 modsilencerbtg28qd762,"[BB00FF]HK G28 B&T QD Sound Suppressor[-]",[BB00FF]HK G28 B&T QD 消音器[-]
 modsilencerSIGclutchlokQD,"[FFD700]MCX-SPEAR SLX68-MG-QD Sound Suppressor[-]",[FFD700]MCX-SPEAR SLX68-MG-QD 消音器[-]
-modmuzzlesigtwoportbrake,"[BB00FF]SIG Two Port Brake[-]",[BB00FF]SIG 雙埠制退器[-]
-modsilencersigsrd762ti,"[BB00FF]SIG SRD762Ti Sound Suppressor[-]",[BB00FF]SIG SRD762Ti 消音器[-]
-modmuzzleAI338LMtactical,"[FFD700]AI .338 LM Muzzle Brake[-]",[FFD700]AI .338 LM 槍口制退器[-]
-modsilencerAI338LMsoundmoderator,"[FFD700]AI .338 LM Sound Suppressor[-]",[FFD700]AI .338 LM 消音器抑制器[-]
+modmuzzlesigtwoportbrake,"[BB00FF]SIG Two Port Brake[-]",[BB00FF]SIG Two Port 制退器[-]
+modsilencersigsrd762ti,"[09FF00]SIG SRD762Ti Sound Suppressor[-]",[09FF00]SIG SRD762Ti 消音器[-]
+modmuzzleAI338LMtactical,"[FFD700]AI .338 LM Muzzle Brake[-]",[FFD700]AI .338 LM 制退器[-]
+modsilencerAI338LMsoundmoderator,"[FFD700]AI .338 LM Sound Suppressor[-]",[FFD700]AI .338 LM 消音器[-]
+modsilencertt33makeshiftDesc,"Weight: [4FBE28]0.320kg[-]\nRecoil: [4FBE28]-10%[-]\nErgonomics: [FF4F33]-10%[-]\nHipfire Accuracy: [FF4F33]-10%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: TT-33",重量：[4FBE28]0.320kg[-]\n後座力：[4FBE28]-10%[-]\n人機功效：[FF4F33]-10%[-]\n腰射準確度：[FF4F33]-10%[-]\n耐久消耗：[FF4F33]+25%[-]\n相容性：TT-33
+modmuzzlettlaserdtkDesc,"Weight: [4FBE28]0.036kg[-]\nRecoil: [4FBE28]-15%[-]\n\nCompatibility: TT-33",重量：[4FBE28]0.036kg[-]\n後座力：[4FBE28]-15%[-]\n相容性：TT-33
+modsilencerstechkinstdDesc,"Weight: [4FBE28]0.490kg[-]\nRecoil: [4FBE28]-16%[-]\nErgonomics: [FF4F33]-12%[-]\nHipfire Accuracy: [FF4F33]-12%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: Stechkin APS",重量：[4FBE28]0.490kg[-]\n後座力：[4FBE28]-16%[-]\n人機功效：[FF4F33]-12%[-]\n腰射準確度：[FF4F33]-12%[-]\n耐久消耗：[FF4F33]+25%[-]\n相容性：Stechkin APS
+modsilencerpp9klinDesc,"Weight: [4FBE28]0.200kg[-]\nRecoil: [4FBE28]-18%[-]\nErgonomics: [FF4F33]-10%[-]\nHipfire Accuracy: [FF4F33]-10%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: PP-9",重量：[4FBE28]0.200kg[-]\n後座力：[4FBE28]-18%[-]\n人機功效：[FF4F33]-10%[-]\n腰射準確度：[FF4F33]-10%[-]\n耐久消耗：[FF4F33]+25%[-]\n相容性：PP-9
+modmuzzlemp5btqdbrakeDesc,"Weight: [4FBE28]0.128kg[-]\nRecoil: [4FBE28]-16%[-]\n\nCompatibility: MP5",重量：[4FBE28]0.128kg[-]\n後座力：[4FBE28]-16%[-]\n相容性：MP5
+modmuzzlemp5noveskeDesc,"Weight: [4FBE28]0.380kg[-]\nRecoil: [4FBE28]-22%[-]\n\nCompatibility: MP5",重量：[4FBE28]0.380kg[-]\n後座力：[4FBE28]-22%[-]\n相容性：MP5
+modsilencerco46multiDesc,"Weight: [4FBE28]0.490kg[-]\nRecoil: [4FBE28]-14%[-]\nErgonomics: [FF4F33]-18%[-]\nHipfire Accuracy: [FF4F33]-18%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: Most Firearms chambered in 9×19, 5.45×39, 5.56×45, 7.62×39 & 7.62×51",重量：[4FBE28]0.490kg[-]\n後座力：[4FBE28]-14%[-]\n人機功效：[FF4F33]-18%[-]\n腰射準確度：[FF4F33]-18%[-]\n耐久消耗：[FF4F33]+25%[-]\n相容性：適用於大多數使用 9×19、5.45×39、5.56×45、7.62×39 和 7.62×51 彈藥的槍械
+modsilencerUziProDesc,"Weight: [4FBE28]0.680kg[-]\nRecoil: [4FBE28]-18%[-]\nErgonomics: [FF4F33]-18%[-]\nHipfire Accuracy: [FF4F33]-18%[-]\nDurability Burn: [FF4F33]+20%[-]\n\nCompatibility: MP-5, MP9-N, PP-19-01, Vector 9, STM-9, Glock 17, P226R, M9A3",重量：[4FBE28]0.680kg[-]\n後座力：[4FBE28]-18%[-]\n人機功效：[FF4F33]-18%[-]\n腰射準確度：[FF4F33]-18%[-]\n耐久消耗：[FF4F33]+20%[-]\n相容性：MP-5、MP9-N、PP-19-01、Vector 9、STM-9、Glock 17、P226R、M9A3
+modmuzzlevityazbrakecompensatorDesc,"Weight: [4FBE28]0.070kg[-]\nRecoil: [4FBE28]-16%[-]\n\nCompatibility: PP-19-01",重量: [4FBE28]0.070kg[-]\n後座力: [4FBE28]-16%[-]\n\n相容性: PP-19-01  
+modsilencermpxsdDesc,"Weight: [4FBE28]0.600kg[-]\nRecoil: [4FBE28]-22%[-]\nErgonomics: [FF4F33]-16%[-]\nHipfire Accuracy: [FF4F33]-16%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: SIG MPX",重量: [4FBE28]0.600kg[-]\n後座力: [4FBE28]-22%[-]\n人機功效: [FF4F33]-16%[-]\n腰射準確度: [FF4F33]-16%[-]\n耐久消耗: [FF4F33]+25%[-]\n\n相容性: SIG MPX  
+modmuzzlestm9brakeDesc,"Weight: [4FBE28]0.084kg[-]\nRecoil: [4FBE28]-26%[-]\n\nCompatibility: STM-9",重量: [4FBE28]0.084kg[-]\n後座力: [4FBE28]-26%[-]\n\n相容性: STM-9  
+modmuzzlegl17carver4portDesc,"Weight: [4FBE28]0.063kg[-]\nRecoil: [4FBE28]-16%[-]\n\nCompatibility: Glock 17",重量: [4FBE28]0.063kg[-]\n後座力: [4FBE28]-16%[-]\n\n相容性: Glock 17  
+modmuzzlep226tjcustomDesc,"Weight: [4FBE28]0.036kg[-]\nRecoil: [4FBE28]-16%[-]\n\nCompatibility: P226R",重量: [4FBE28]0.036kg[-]\n後座力: [4FBE28]-16%[-]\n\n相容性: P226R  
+modsilencersr1mpstdDesc,"Weight: [4FBE28]0.490kg[-]\nRecoil: [4FBE28]-14%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: SR-1MP",重量: [4FBE28]0.490kg[-]\n後座力: [4FBE28]-14%[-]\n人機功效: [FF4F33]-15%[-]\n腰射準確度: [FF4F33]-15%[-]\n耐久消耗: [FF4F33]+25%[-]\n\n相容性: SR-1MP
+modsilencersr2msv1381Desc,"Weight: [4FBE28]0.575kg[-]\nRecoil: [4FBE28]-12%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: SR-2M",重量: [4FBE28]0.575kg[-]\n後座力: [4FBE28]-12%[-]\n人機功效: [FF4F33]-15%[-]\n腰射準確度: [FF4F33]-15%[-]\n耐久消耗: [FF4F33]+25%[-]\n\n相容性: SR-2M  
+modmuzzle1911anarchyoutdoorsDesc,"Weight: [4FBE28]0.100kg[-]\nRecoil: [4FBE28]-20%[-]\n\nCompatibility: M1911, M45A1","重量: [4FBE28]0.100kg[-]\n後座力: [4FBE28]-20%[-]\n\n相容性: M1911, M45A1  "
+modsilencermp7rotex2Desc,"Weight: [4FBE28]0.607kg[-]\nRecoil: [4FBE28]-22%[-]\nErgonomics: [FF4F33]-18%[-]\nHipfire Accuracy: [FF4F33]-18%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: MP7A1",重量: [4FBE28]0.607kg[-]\n後座力: [4FBE28]-22%[-]\n人機功效: [FF4F33]-18%[-]\n腰射準確度: [FF4F33]-18%[-]\n耐久消耗: [FF4F33]+25%[-]\n\n相容性: MP7A1  
+modsilencerp90attenuatorDesc,"Weight: [4FBE28]0.677kg[-]\nRecoil: [4FBE28]-22%[-]\nErgonomics: [FF4F33]-18%[-]\nHipfire Accuracy: [FF4F33]-18%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: P90",重量: [4FBE28]0.677kg[-]\n後座力: [4FBE28]-22%[-]\n人機功效: [FF4F33]-18%[-]\n腰射準確度: [FF4F33]-18%[-]\n耐久消耗: [FF4F33]+25%[-]\n\n相容性: P90  
+modsilencer57gemtechDesc,"Weight: [4FBE28]0.150kg[-]\nRecoil: [4FBE28]-12%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: FN FiveSeven",重量: [4FBE28]0.150kg[-]\n後座力: [4FBE28]-12%[-]\n人機功效: [FF4F33]-15%[-]\n腰射準確度: [FF4F33]-15%[-]\n耐久消耗: [FF4F33]+25%[-]\n\n相容性: FN FiveSeven  
+modsilencerak74tgpaDesc,"Weight: [4FBE28]0.700kg[-]\nRecoil: [4FBE28]-14%[-]\nErgonomics: [FF4F33]-20%[-]\nHipfire Accuracy: [FF4F33]-20%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: AK-74N/M, AKS-74UN, AK-107","重量: [4FBE28]0.700kg[-]\n後座力: [4FBE28]-14%[-]\n人機功效: [FF4F33]-20%[-]\n腰射準確度: [FF4F33]-20%[-]\n耐久消耗: [FF4F33]+25%[-]\n\n相容性: AK-74N/M, AKS-74UN, AK-107  "
+modmuzzleak74hexagonreactorDesc,"Weight: [4FBE28]0.095kg[-]\nRecoil: [4FBE28]-24%[-]\n\nCompatibility: AK-74N/M, AK-107\n\nActs as an adapter for 'AK-74 Hexagon Wafflemaker'","重量: [4FBE28]0.095kg[-]\n後座力: [4FBE28]-24%[-]\n\n相容性: AK-74N/M, AK-107\n\n充當 'AK-74 Hexagon Wafflemaker' 的轉接器  "
+modsilencerak74hexagonwaffleDesc,"Weight: [4FBE28]0.290kg[-]\nRecoil: [4FBE28]-18%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: AK-74N/M and AK-107\n\nRequires adapter: 'AK Hexagon Reactor'",重量: [4FBE28]0.290kg[-]\n後座力: [4FBE28]-18%[-]\n人機功效: [FF4F33]-15%[-]\n腰射準確度: [FF4F33]-15%[-]\n耐久消耗: [FF4F33]+25%[-]\n\n相容性: AK-74N/M and AK-107\n\n需要轉接器: 'AK Hexagon Reactor'  
+modmuzzleak74jetmbrDesc,"Weight: [4FBE28]0.110kg[-]\nRecoil: [4FBE28]-20%[-]\n\nCompatibility: AKS-74UN, AK-74N/M, RPK-16, AK-107","重量: [4FBE28]0.110kg[-]\n後座力: [4FBE28]-20%[-]\n\n相容性: AKS-74UN, AK-74N/M, RPK-16, AK-107  "
+modmuzzleak74zenitdtk1Desc,"Weight: [4FBE28]0.128kg[-]\nRecoil: [4FBE28]-18%[-]\n\nCompatibility: AKS-74UN, AK-74N/M, RPK-16, AK-107, SKS","重量: [4FBE28]0.128kg[-]\n後座力: [4FBE28]-18%[-]\n\n相容性: AKS-74UN, AK-74N/M, RPK-16, AK-107, SKS  "
+modsilencerhexagonAKDesc,"Weight: [4FBE28]0.462kg[-]\nRecoil: [4FBE28]-22%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: AK-74N/M, RPK-16, AK-107, SKS, AKMN, AK-103, AK-109","重量: [4FBE28]0.462kg[-]\n後座力: [4FBE28]-22%[-]\n人機功效: [FF4F33]-15%[-]\n腰射準確度: [FF4F33]-15%[-]\n耐久消耗: [FF4F33]+25%[-]\n\n相容性: AK-74N/M, RPK-16, AK-107, SKS, AKMN, AK-103, AK-109  "
+modmuzzleak12stdDesc,"Weight: [4FBE28]0.100kg[-]\nRecoil: [4FBE28]-22%[-]\n\nCompatibility: AK-12",重量: [4FBE28]0.100kg[-]\n後座力: [4FBE28]-22%[-]\n\n相容性: AK-12  
+modsilencerak12stdDesc,"Weight: [4FBE28]0.450kg[-]\nRecoil: [4FBE28]-24%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: AK-12",重量: [4FBE28]0.450kg[-]\n後座力: [4FBE28]-24%[-]\n人機功效: [FF4F33]-15%[-]\n腰射準確度: [FF4F33]-15%[-]\n耐久消耗: [FF4F33]+25%[-]\n\n相容性: AK-12  
+modmuzzlerpdbrakecompensatorDesc,"Weight: [4FBE28]0.124kg[-]\nRecoil: [4FBE28]-16%[-]\n\nCompatibility: RPD",重量: [4FBE28]0.124kg[-]\n後座力: [4FBE28]-16%[-]\n\n相容性: RPD  
+modmuzzle_mosin_tacfire_tanker_style_762x54rDesc,"Weight: [4FBE28]0.250kg[-]\nRecoil: [4FBE28]-18%[-]\n\nCompatibility: Mosin-Nagant",重量: [4FBE28]0.250kg[-]\n後座力: [4FBE28]-18%[-]\n\n相容性: Mosin-Nagant  
+silencer_mosin_bramit_std_762x54rDesc,"Weight: [4FBE28]1.100kg[-]\nRecoil: [4FBE28]-14%[-]\nErgonomics: [FF4F33]-28%[-]\nHipfire Accuracy: [FF4F33]-28%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: Mosin-Nagant",重量: [4FBE28]1.100kg[-]\n後座力: [4FBE28]-14%[-]\n人機功效: [FF4F33]-28%[-]\n腰射準確度: [FF4F33]-28%[-]\n耐久消耗: [FF4F33]+25%[-]\n\n相容性: Mosin-Nagant  
+modsilencerSV98stdDesc,"Weight: [4FBE28]0.330kg[-]\nRecoil: [4FBE28]-16%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: SV-98",重量: [4FBE28]0.330kg[-]\n後座力: [4FBE28]-16%[-]\n人機功效: [FF4F33]-15%[-]\n腰射準確度: [FF4F33]-15%[-]\n耐久消耗: [FF4F33]+25%[-]\n\n相容性: SV-98  
+modmuzzleSV98mk2SRVVDesc,"Weight: [4FBE28]0.460kg[-]\nRecoil: [4FBE28]-24%[-]\n\nCompatibility: SV-98",重量: [4FBE28]0.460kg[-]\n後座力: [4FBE28]-24%[-]\n\n相容性: SV-98  
+modmuzzlepkzenitdtkDesc,"Weight: [4FBE28]0.124kg[-]\nRecoil: [4FBE28]-12%[-]\n\nCompatibility: PKP Pecheneg",重量: [4FBE28]0.124kg[-]\n後座力: [4FBE28]-12%[-]\n\n相容性: PKP Pecheneg  
+modmuzzleash12stdDesc,"Weight: [4FBE28]0.150kg[-]\nRecoil: [4FBE28]-30%[-]\n\nCompatibility: ASh-12",重量: [4FBE28]0.150kg[-]\n後座力: [4FBE28]-30%[-]\n\n相容性: ASh-12  
+modsilencerash12stdDesc,"Weight: [4FBE28]0.700kg[-]\nRecoil: [4FBE28]-26%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: ASh-12",重量: [4FBE28]0.700kg[-]\n後座力: [4FBE28]-26%[-]\n人機功效: [FF4F33]-15%[-]\n腰射準確度: [FF4F33]-15%[-]\n耐久消耗: [FF4F33]+25%[-]\n\n相容性: ASh-12  
+modsilencergriffinm4sdkDesc,"Weight: [4FBE28]0.397kg[-]\nRecoil: [4FBE28]-26%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+30%[-]\n\nCompatibility: Most firearms chambered in 5.56×45, 5.45x39","重量: [4FBE28]0.397kg[-]\n後座力: [4FBE28]-26%[-]\n人機功效: [FF4F33]-15%[-]\n腰射準確度: [FF4F33]-15%[-]\n耐久消耗: [FF4F33]+30%[-]\n\n相容性: 適用於大多數以 5.56×45, 5.45x39 彈藥為主的槍械  "
+modsilencersocomrc2Desc,"Weight: [4FBE28]0.546kg[-]\nRecoil: [4FBE28]-32%[-]\nErgonomics: [FF4F33]-18%[-]\nHipfire Accuracy: [FF4F33]-18%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: Most firearms chambered in 5.56×45, 5.45x39","重量: [4FBE28]0.546kg[-]\n後座力: [4FBE28]-32%[-]\n人機功效: [FF4F33]-18%[-]\n腰射準確度: [FF4F33]-18%[-]\n耐久消耗: [FF4F33]+25%[-]\n\n相容性: 適用於大多數以 5.56×45, 5.45x39 彈藥為主的槍械  "
+modmuzzle_ar15_ferfrans_muzzle_brake_556x45Desc,"Weight: [4FBE28]0.150kg[-]\nRecoil: [4FBE28]-15%[-]\n\nCompatibility: Most firearms chambered in 5.56×45, 5.45x39","重量: [4FBE28]0.150kg[-]\n後座力: [4FBE28]-15%[-]\n\n相容性: 適用於大多數以 5.56×45, 5.45x39 彈藥為主的槍械  "
+modmuzzle_ar15_double_star_carlson_tac_comp_556x45Desc,"Weight: [4FBE28]0.208kg[-]\nRecoil: [4FBE28]-18%[-]\n\nCompatibility: Most firearms chambered in 5.56×45, 5.45x39","重量: [4FBE28]0.208kg[-]\n後座力: [4FBE28]-18%[-]\n\n相容性: 適用於大多數以 5.56×45, 5.45x39 彈藥為主的槍械"
+modmuzzle_ar15_alientech_gubich_muzzle_brake_556x45Desc,"Weight: [4FBE28]0.085kg[-]\nRecoil: [4FBE28]-22%[-]\n\nCompatibility: Most firearms chambered in 5.56×45, 5.45x39",重量: [4FBE28]0.085kg[-]\n後座力: [4FBE28]-22%[-]\n\n相容性: 適用於 5.56×45、5.45x39 口徑的絕大多數槍械
+modmuzzleAR15thunderbeast223cbDesc,"Weight: [4FBE28]0.109kg[-]\nRecoil: [4FBE28]-12%[-]\n\nCompatibility: Most firearms chambered in 5.56×45\n\nActs as an adapter for 'Thunder Beast Ultra 5'",重量: [4FBE28]0.109kg[-]\n後座力: [4FBE28]-12%[-]\n\n相容性: 適用於 5.56×45 口徑的絕大多數槍械\n\n充當 'Thunder Beast Ultra 5' 的轉接器
+modmuzzleAR10thunderbeast30cbDesc,"Weight: [4FBE28]0.109kg[-]\nRecoil: [4FBE28]-12%[-]\n\nCompatibility: Most firearms chambered in 7.62×39 & 7.62×51\n\nActs as an adapter for 'Thunder Beast Ultra 5'",重量: [4FBE28]0.109kg[-]\n後座力: [4FBE28]-12%[-]\n\n相容性: 適用於 7.62×39、7.62×51 口徑的絕大多數槍械\n\n充當 'Thunder Beast Ultra 5' 的轉接器
+modsilencerthunderbeastultra5Desc,"Weight: [4FBE28]0.210kg[-]\nRecoil: [4FBE28]-18%[-]\nErgonomics: [FF4F33]-5%[-]\nHipfire Accuracy: [FF4F33]-5%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: Most firearms chambered in 5.56×45, 5.45x39, 7.62×39 & 7.62×51\n\nRequires adapter: 'Thunder Beast (30CB: AR10 7.62 / 223CB: AR15 5.56)'",重量: [4FBE28]0.210kg[-]\n後座力: [4FBE28]-18%[-]\n人機功效: [FF4F33]-5%[-]\n腰射精準度: [FF4F33]-5%[-]\n耐久度消耗: [FF4F33]+25%[-]\n\n相容性: 適用於 5.56×45、5.45x39、7.62×39、7.62×51 口徑的絕大多數槍械\n\n需要轉接器: 'Thunder Beast (30CB: AR10 7.62 / 223CB: AR15 5.56)'
+modsilencersdnaacmultiDesc,"Weight: [4FBE28]0.689kg[-]\nRecoil: [4FBE28]-30%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: Most firearms chambered in 5.56×45, 5.45x39, 7.62×39 & 7.62×51",重量: [4FBE28]0.689kg[-]\n後座力: [4FBE28]-30%[-]\n人機功效: [FF4F33]-15%[-]\n腰射精準度: [FF4F33]-15%[-]\n耐久度消耗: [FF4F33]+25%[-]\n\n相容性: 適用於 5.56×45、5.45x39、7.62×39、7.62×51 口徑的絕大多數槍械
+modmuzzle_ar10_precision_armament_m11_severe_duty_muzzle_brake_762x51Desc,"Weight: [4FBE28]0.120kg[-]\nRecoil: [4FBE28]-14%[-]\n\nCompatibility: Most firearms chambered in 7.62×39 & 7.62×51",重量: [4FBE28]0.120kg[-]\n後座力: [4FBE28]-14%[-]\n\n相容性: 適用於 7.62×39、7.62×51 口徑的絕大多數槍械
+modmuzzleAR10kacqdcDesc,"Weight: [4FBE28]0.145kg[-]\nRecoil: [4FBE28]-18%[-]\n\nCompatibility: Most firearms chambered in 7.62×39 & 7.62×51\n\nActs as an adapter for 'KAC PRS/QDC'",重量: [4FBE28]0.145kg[-]\n 後座力: [4FBE28]-18%[-]\n\n 相容性: 適用於 7.62×39、7.62×51 口徑的絕大多數槍械\n\n 充當 'KAC PRS/QDC' 的轉接器
+modsilencerprskacqdcDesc,"Weight: [4FBE28]0.453kg[-]\nRecoil: [4FBE28]-16%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: Most firearms chambered in 7.62×39 & 7.62×51\n\nRequires adapter: 'AR-10 KAC QDC'",重量: [4FBE28]0.453kg[-]\n 後座力: [4FBE28]-16%[-]\n 人機功效: [FF4F33]-15%[-]\n 腰射精準度: [FF4F33]-15%[-]\n 耐久度消耗: [FF4F33]+25%[-]\n\n 相容性: 適用於 7.62×39、7.62×51 口徑的絕大多數槍械\n\n 需要轉接器: 'AR-10 KAC QDC'
+modmuzzle_ar10_lantac_dgn762b_muzzle_brake_762x51Desc,"Weight: [4FBE28]0.090kg[-]\nRecoil: [4FBE28]-34%[-]\n\nCompatibility: Most firearms chambered in 7.62×39 & 7.62×51",重量: [4FBE28]0.090kg[-]\n 後座力: [4FBE28]-34%[-]\n\n 相容性: 適用於 7.62×39、7.62×51 口徑的絕大多數槍械
+modsilencerbtg28qd762Desc,"Weight: [4FBE28]0.577kg[-]\nRecoil: [4FBE28]-28%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: HK417 & G28",重量: [4FBE28]0.577kg[-]\n 後座力: [4FBE28]-28%[-]\n 人機功效: [FF4F33]-15%[-]\n 腰射精準度: [FF4F33]-15%[-]\n 耐久度消耗: [FF4F33]+25%[-]\n\n 相容性: HK417 & G28
+modsilencerSIGclutchlokQDDesc,"Weight: [4FBE28]0.711kg[-]\nRecoil: [4FBE28]-34%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: SIG MCX Spear",重量: [4FBE28]0.711kg[-]\n 後座力: [4FBE28]-34%[-]\n 人機功效: [FF4F33]-15%[-]\n 腰射精準度: [FF4F33]-15%[-]\n 耐久度消耗: [FF4F33]+25%[-]\n\n 相容性: SIG MCX Spear
+modmuzzlesigtwoportbrakeDesc,"Weight: [4FBE28]0.095kg[-]\nRecoil: [4FBE28]-22%[-]\n\nCompatibility: Most firearms chambered in .300blk, 7.62×39 & 7.62×51",重量: [4FBE28]0.095kg[-]\n 後座力: [4FBE28]-22%[-]\n\n 相容性: 適用於 .300blk、7.62×39、7.62×51 口徑的絕大多數槍械
+modsilencersigsrd762tiDesc,"Weight: [4FBE28]0.460kg[-]\nRecoil: [4FBE28]-24%[-]\nErgonomics: [FF4F33]-10%[-]\nHipfire Accuracy: [FF4F33]-10%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: Most firearms chambered in .300blk, 7.62×39 & 7.62×51",重量: [4FBE28]0.460kg[-]\n 後座力: [4FBE28]-24%[-]\n 人機功效: [FF4F33]-10%[-]\n 腰射精準度: [FF4F33]-10%[-]\n 耐久度消耗: [FF4F33]+25%[-]\n\n 相容性: 適用於 .300blk、7.62×39、7.62×51 口徑的絕大多數槍械
+modsilencersigsrdqdDesc,"Weight: [4FBE28]0.460kg[-]\nRecoil: [4FBE28]-30%[-]\nErgonomics: [FF4F33]-10%[-]\nHipfire Accuracy: [FF4F33]-10%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: Most firearms chambered in .300blk, 7.62×39 & 7.62×51",重量: [4FBE28]0.460kg[-]\n 後座力: [4FBE28]-30%[-]\n 人機功效: [FF4F33]-10%[-]\n 腰射精準度: [FF4F33]-10%[-]\n 耐久度消耗: [FF4F33]+25%[-]\n\n 相容性: 適用於 .300blk、7.62×39、7.62×51 口徑的絕大多數槍械
+modmuzzleAI338LMtacticalDesc,"Weight: [4FBE28]0.230kg[-]\nRecoil: [4FBE28]-16%[-]\n\nCompatibility: AXMC, Mk-18\n\nActs as an adapter for 'AI .338 LM Sound Supressor'",重量: [4FBE28]0.230kg[-]\n 後座力: [4FBE28]-16%[-]\n\n 相容性: AXMC、Mk-18\n\n 充當 'AI .338 LM Sound Supressor' 的轉接器
+modsilencerAI338LMsoundmoderatorDesc,"Weight: [4FBE28]0.665kg[-]\nRecoil: [4FBE28]-22%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: AXMC, Mk-18\n\nRequires adapter: 'AI .338 LM Muzzle Brake'",重量: [4FBE28]0.665kg[-]\n 後座力: [4FBE28]-22%[-]\n 人機功效: [FF4F33]-15%[-]\n 腰射精準度: [FF4F33]-15%[-]\n 耐久度消耗: [FF4F33]+25%[-]\n\n 相容性: AXMC、Mk-18\n\n 需要轉接器: 'AI .338 LM Muzzle Brake'
+modsilencerSGhexagon12k,"[004CFF]Hexagon 12K Sound Supressor[-]",[004CFF]Hexagon 12K 消音器[-]
+modsilencercoSalvo12,"[BB00FF]SilencerCo Salvo 12 Sound Supressor[-]",[BB00FF]SilencerCo Salvo 12 消音器[-]
+modchokeremingtontactical,"[09FF00]Remington Tactical Choke[-]",[09FF00]Remington 戰術收束器[-]
+modmuzzleSGgk02muzzlebrake,"[004CFF]GK-02 12ga Muzzle Brake[-]",[004CFF]GK-02 12ga 裝置式制退器[-]
+modmuzzletromixmonsterclaw,"[BB00FF]Tromix Monster Claw 12ga Muzzle Brake[-]",[BB00FF]Tromix Monster Claw 12ga 裝置式制退器[-]
+modchokeAA12,"[BB00FF]AA-12 12ga Choke[-]",[BB00FF]AA-12 12ga 收束器[-]
+modsilencerAA12marauder,"[BB00FF]AA-12 12ga Marauder Silencer[-]",[BB00FF]AA-12 12ga Marauder 消音器[-]
+modsilencerSGhexagon12kDesc,"Weight: [4FBE28]0.493kg[-]\nRecoil: [4FBE28]-22%[-]\nErgonomics: [FF4F33]-20%[-]\nHipfire Accuracy: [FF4F33]-20%[-]\nDurability Burn: [FF4F33]+50%[-]\n\nCompatibility: M870, KSG-12, MP-153, M3 Benelli, Saiga-12K",重量: [4FBE28]0.493kg[-]\n後座力: [4FBE28]-22%[-]\n人機功效: [FF4F33]-20%[-]\n腰射精準度: [FF4F33]-20%[-]\n耐久度消耗: [FF4F33]+50%[-]\n\n相容性: M870、KSG-12、MP-153、M3 Benelli、Saiga-12K
+modsilencercoSalvo12Desc,"Weight: [4FBE28]0.970kg[-]\nRecoil: [4FBE28]-28%[-]\nErgonomics: [FF4F33]-25%[-]\nHipfire Accuracy: [FF4F33]-25%[-]\nDurability Burn: [FF4F33]+40%[-]\n\nCompatibility: M870, KSG-12, MP-153, M3 Benelli, Saiga-12K",重量: [4FBE28]0.970kg[-]\n後座力: [4FBE28]-28%[-]\n人機功效: [FF4F33]-25%[-]\n腰射精準度: [FF4F33]-25%[-]\n耐久度消耗: [FF4F33]+40%[-]\n\n相容性: M870、KSG-12、MP-153、M3 Benelli、Saiga-12K
+modchokeremingtontacticalDesc,"Weight: [4FBE28]0.101kg[-]\nRecoil: [4FBE28]-12%[-]\nSpread: [4FBE28]-25%[-]\n\nCompatibility: M870, KSG-12, MP-153, M3 Benelli",重量: [4FBE28]0.101kg[-]\n後座力: [4FBE28]-12%[-]\n散佈: [4FBE28]-25%[-]\n\n相容性: M870、KSG-12、MP-153、M3 Benelli
+modmuzzleSGgk02muzzlebrakeDesc,"Weight: [4FBE28]0.233kg[-]\nRecoil: [4FBE28]-20%[-]\n\nCompatibility: M870, KSG-12, MP-153, M3 Benelli, Saiga-12K",重量: [4FBE28]0.233kg[-]\n後座力: [4FBE28]-20%[-]\n\n相容性: M870、KSG-12、MP-153、M3 Benelli、Saiga-12K
+modmuzzletromixmonsterclawDesc,"Weight: [4FBE28]0.340kg[-]\nRecoil: [4FBE28]-34%[-]\n\nCompatibility: M870, KSG-12, MP-153, M3 Benelli, Saiga-12K",重量: [4FBE28]0.340kg[-]\n後座力: [4FBE28]-34%[-]\n\n相容性: M870、KSG-12、MP-153、M3 Benelli、Saiga-12K
+modchokeAA12Desc,"Weight: [4FBE28]0.101kg[-]\nRecoil: [4FBE28]-12%[-]\nSpread: [4FBE28]-30%[-]\n\nCompatibility: AA-12",重量: [4FBE28]0.101kg[-]\n後座力: [4FBE28]-12%[-]\n散佈: [4FBE28]-30%[-]\n\n相容性: AA-12
+modsilencerAA12marauderDesc,"Weight: [4FBE28]0.570kg[-]\nRecoil: [4FBE28]-20%[-]\nErgonomics: [FF4F33]-20%[-]\nHipfire Accuracy: [FF4F33]-20%[-]\nDurability Burn: [FF4F33]+40%[-]\n\nCompatibility: AA-12",重量: [4FBE28]0.570kg[-]\n後座力: [4FBE28]-20%[-]\n人機功效: [FF4F33]-20%[-]\n腰射精準度: [FF4F33]-20%[-]\n耐久度消耗: [FF4F33]+40%[-]\n\n相容性: AA-12
+modsilencerco9ospreyDesc,"Weight: [4FBE28]0.270kg[-]\nRecoil: [4FBE28]-16%[-]\nErgonomics: [FF4F33]-10%[-]\nHipfire Accuracy: [FF4F33]-10%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: MP-5, MP9-N, PP-19-01, Vector 9, UZI, STM-9, Glock 17, P226R, M9A3",重量: [4FBE28]0.270kg[-]\n後座力: [4FBE28]-16%[-]\n人機功效: [FF4F33]-10%[-]\n腰射精準度: [FF4F33]-10%[-]\n耐久度消耗: [FF4F33]+25%[-]\n\n相容性: MP-5、MP9-N、PP-19-01、Vector 9、UZI、STM-9、Glock 17、P226R、M9A3
+modsilencersigsrd9Desc,"Weight: [4FBE28]0.255kg[-]\nRecoil: [4FBE28]-18%[-]\nErgonomics: [FF4F33]-9%[-]\nHipfire Accuracy: [FF4F33]-9%[-]\nDurability Burn: [FF4F33]+20%[-]\n\nCompatibility: MP-5, MP9-N, PP-19-01, Vector 9, UZI, STM-9, Glock 17, P226R, M9A3",重量: [4FBE28]0.255kg[-]\n後座力: [4FBE28]-18%[-]\n人機功效: [FF4F33]-9%[-]\n腰射精準度: [FF4F33]-9%[-]\n耐久度消耗: [FF4F33]+20%[-]\n\n相容性: MP-5、MP9-N、PP-19-01、Vector 9、UZI、STM-9、Glock 17、P226R、M9A3
+modSVDmuzzlebrakecompensatorDesc,"Weight: [4FBE28]0.080kg[-]\nRecoil: [4FBE28]-10%[-]\n\nCompatibility: SVDS 'Dragunov'\n\nActs as an adapter for 'Rotor 43'",重量: [4FBE28]0.080kg[-]\n後座力: [4FBE28]-10%[-]\n\n相容性: 適用於 SVDS 'Dragunov'\n\n充當 'Rotor 43' 的轉接器
+modsilencerSVDrotor43Desc,"Weight: [4FBE28]0.180kg[-]\nRecoil: [4FBE28]-15%[-]\nErgonomics: [FF4F33]-15%[-]\nHipfire Accuracy: [FF4F33]-15%[-]\nDurability Burn: [FF4F33]+25%[-]\n\nCompatibility: SVDS 'Dragunov'\n\nRequires adapter: 'SVDS Brake-Compensator'",重量: [4FBE28]0.180kg[-]\n後座力: [4FBE28]-15%[-]\n人機功效: [FF4F33]-15%[-]\n腰射精準度: [FF4F33]-15%[-]\n耐久度消耗: [FF4F33]+25%[-]\n\n相容性: 適用於 SVDS 'Dragunov'\n\n需要轉接器: 'SVDS Brake-Compensator'
+modsilencerco45komega,"[09FF00]SilencerCo 45K Omega[-]",[09FF00]SilencerCo 45K Omega[-]
+modsilencerump45bt,"[09FF00]UMP-45 B&T Sound Suppressor[-]",[09FF00]UMP-45 B&T 消音器[-]
+modsilencerco45komegaDesc,"Weight: [4FBE28]0.270kg[-]\nRecoil: [4FBE28]-14%[-]\nErgonomics: [FF4F33]-10%[-]\nHipfire Accuracy: [FF4F33]-10%[-]\nDurability Burn: [FF4F33]+15%[-]\n\nCompatibility: Vector 45, M45A1, M1911, USP 45 Tactical ",重量: [4FBE28]0.270kg[-]\n後座力: [4FBE28]-14%[-]\n人機功效: [FF4F33]-10%[-]\n腰射精準度: [FF4F33]-10%[-]\n耐久度消耗: [FF4F33]+15%[-]\n\n相容性: Vector 45、M45A1、M1911、USP 45 Tactical
+modsilencerump45btDesc,"Weight: [4FBE28]0.453kg[-]\nRecoil: [4FBE28]-16%[-]\nErgonomics: [FF4F33]-10%[-]\nHipfire Accuracy: [FF4F33]-10%[-]\nDurability Burn: [FF4F33]+15%[-]\n\nCompatibility: UMP-45",重量: [4FBE28]0.453kg[-]\n後座力: [4FBE28]-16%[-]\n人機功效: [FF4F33]-10%[-]\n腰射精準度: [FF4F33]-10%[-]\n耐久度消耗: [FF4F33]+15%[-]\n\n相容性: UMP-45
+schematicssvd,"[004CFF]SVDS 'Dragunov'[-] Schematic",[004CFF]SVDS 'Dragunov'[-] 設計圖
+gunsvd,"[004CFF]SVDS 'Dragunov'[-]",[004CFF]SVDS 'Dragunov'[-]
+gunsvdDesc,"SVDS Dragunov Sniper Rifle\n\nUses Ammo Type: [D3CE1D]7.62×54R[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nDMR Bonus: Deals [4FBE28]25%[-] extra damage.",SVDS Dragunov 狙擊步槍\n\n使用彈藥類型: [D3CE1D]7.62×54R[-]\n可用於維修: [D3CE1D]武器維修工具組[-]\n\n精確射擊加成: 造成 [4FBE28]25%[-] 額外傷害
+modmagSVDstd20Desc,"Weight: [4FBE28]0.112kg[-]\nMagazine Size: [4FBE28]20[-]\n\nCompatibility: SVDS 'Dragunov'",重量: [4FBE28]0.112kg[-]\n彈匣容量: [4FBE28]20[-]\n\n相容性: SVDS 'Dragunov'
+modmagSVDmakeshiftdrum50Desc,"Weight: [4FBE28]0.530kg[-]\nMagazine Size: [4FBE28]50[-]\nReload Time: [FF4F33]+20%[-]\n\nCompatibility: SVDS 'Dragunov'",重量: [4FBE28]0.530kg[-]\n彈匣容量: [4FBE28]50[-]\n換彈時間: [FF4F33]+20%[-]\n\n相容性: SVDS 'Dragunov'
 gunFALsa58dmr,"[004CFF]FN FAL DMR[-]",[004CFF]FN FAL DMR[-]
-ammoEft9340pg7vl,"[FFD700]93×40 - PG-7VL Warhead[-]",[FFD700]93×40 - PG-7VL彈頭[-]
-ammoEft9340pg7vlDesc,"PG-7VL Warhead used in the RPG-7 anti-tank rocket launcher.\nLethal damage radius: [F44336]10 meters (or 10 blocks)[-]\nCasualty safe radius: [4FBE28]+15 meters (or 15 blocks)[-]",PG-7VL 彈頭，用於 RPG-7 反戰車火箭發射器。 \n致命傷害半徑: [F44336]10 公尺（或 10 個方塊）[-]\n傷亡安全半徑: [4FBE28]+15 公尺（或 15 個方塊）[-]
+ammoEft9340pg7vl,"[FFD700]93×40 - PG-7VL Warhead[-]",[FFD700]93×40 - PG-7VL 彈頭[-]
+ammoEft9340pg7vlDesc,"PG-7VL Warhead used in the RPG-7 anti-tank rocket launcher.\nLethal damage radius: [F44336]10 meters (or 10 blocks)[-]\nCasualty safe radius: [4FBE28]+15 meters (or 15 blocks)[-]",PG-7VL 彈頭，適用於 RPG-7 反戰車火箭發射器。\n致命傷害半徑: [F44336]10 公尺（或 10 格）[-]\n安全半徑: [4FBE28]+15 公尺（或 15 格）[-]
 gunfamas,"[004CFF]FAMAS[-]",[004CFF]FAMAS[-]
-gunfamasDesc,"FAMAS Assault Rifle\n\nUses Ammo Type: [D3CE1D]5.56×45[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nRequires a grip or under barrel to equip flashlights/lasers.",FAMAS 突擊步槍\n\n使用彈藥類型: [D3CE1D]5.56×45[-]\n維修工具: [D3CE1D]武器修理工具包[-]\n\n需要握把或槍管下方安裝手電筒/雷射。
-muzzle_mosin_tacfire_tanker_style_762x54rDesc,"Weight: [4FBE28]0.250kg[-]\nRecoil: [4FBE28]-20%[-]\n\nCompatibility: Mosin-Nagant",重量: [4FBE28]0.250kg[-]\n後座力: [4FBE28]-20%[-]\n\n適用槍械: 莫辛納甘
-modstocka2ar15prsgen2tanDesc,"Weight: [4FBE28]0.950kg[-]\nErgonomics: [4FBE28]+5%[-]\nHipfire Accuracy: [4FBE28]+2.5%[-]\nRecoil: [4FBE28]-5%[-]\n\nCompatibility: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, FN FAL, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1.",重量: [4FBE28]0.950kg[-]\n人體工學: [4FBE28]+5%[-]\n腰部射精度: [4FBE28]+2.5%[-]\n後座力: [4FBE28]-5%[-]\n\n適用槍械: Vectorn適用槍械: Vector 9/45、STM-9、M4A1、M16A4、HK416A5、FN FAL、M14 SASS、SVDS、Mk-18、RD-704、Mk47、M590A1。
-modstocka2ar15prsgen3Desc,"Weight: [4FBE28]0.970kg[-]\nErgonomics: [4FBE28]+10%[-]\nHipfire Accuracy: [4FBE28]+5%[-]\nRecoil: [4FBE28]-10%[-]\n\nCompatibility: AR-15 styled stock. Can fit on many guns.",重量: [4FBE28]0.970kg[-]\n人體工學: [4FBE28]+10%[-]\n腰射精度: [4FBE28]+5%[-]\n後座力: [4FBE28]-10%[-]\n\n: AR\n後座力: [4FBE28]-10%[-]\n\n: AR-15 型槍相容性。適用於多種槍支。
-modstockar15b5precisionDesc,"Weight: [4FBE28]0.350kg[-]\nErgonomics: [4FBE28]+10%[-]\nHipfire Accuracy: [4FBE28]+5%[-]\nRecoil: [4FBE28]-20%[-]\n\nCompatibility: AR-15 styled stock. Can fit on many guns.",重量: [4FBE28]0.350kg[-]\n人體工學: [4FBE28]+10%[-]\n腰射精度: [4FBE28]+5%[-]\n後座力: [4FBE28]-20%[-]\n\n: AR\n後座力: [4FBE28]-20%[-]\n\n: AR-15 型槍相容性。適用於多種槍支。
-modstockar15glcoreDesc,"Weight: [4FBE28]0.461kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+12.5%[-]\n\nCompatibility: AR-15 styled stock. Can fit on many guns.",重量: [4FBE28]0.461kg[-]\n人體工學: [4FBE28]+25%[-]\n腰射精度: [4FBE28]+12.5%[-]\n\n相容性: AR-15 式槍托。可適用於多種槍枝。
-modstockar15acesocomgen4Desc,"Weight: [4FBE28]0.470kg[-]\nErgonomics: [4FBE28]+40%[-]\nHipfire Accuracy: [4FBE28]+20%[-]\n\nCompatibility: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, FN FAL, SR-25, RSASS, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1.","體重: [4FBE28]0.470kg[-]\n人體工學: [4FBE28]+40%[-]\n腰射精度: [4FBE28]+20%[-]\n\n相容性: Vector 9/45、STM-9、M4A1、M16A4、HRSA416A51,416、MF1,M16A4、H1416A5-MAL16A SASS、SVDS、Mk-18、RD-704、Mk47、M590A1。"
-modstockar15hke1Desc,"Weight: [4FBE28]0.520kg[-]\nErgonomics: [4FBE28]+12%[-]\nHipfire Accuracy: [4FBE28]+6%[-]\n\nCompatibility: AR-15 styled stock. Can fit on many guns.",重量: [4FBE28]0.520kg[-]\n人體工學: [4FBE28]+12%[-]\n腰射精度: [4FBE28]+6%[-]\n\n相容性: AR-15 式槍托。可適用於多種槍枝。
-modstockar15ergof93proDesc,"Weight: [4FBE28]0.590kg[-]\nErgonomics: [4FBE28]+20%[-]\nHipfire Accuracy: [4FBE28]+20%[-]\n\nCompatibility: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, FN FAL, SR-25, RSASS, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1.","體重: [4FBE28]0.590kg[-]\n人體工學: [4FBE28]+20%[-]\n腰射精度: [4FBE28]+20%[-]\n\n相容性: Vector 9/45、STM-9、M4A1、M16A4、HRSA416A51,416、MF1,M16A4、H1416A5-MAL16A SASS、SVDS、Mk-18、RD-704、Mk47、M590A1。"
-modstockmaximcqbDesc,"Weight: [4FBE28]0.500kg[-]\nErgonomics: [4FBE28]+35%[-]\nHipfire Accuracy: [4FBE28]+22.5%[-]\n\nCompatibility: SIG MPX/MCX/MCX Spear & SCAR-H",重量: [4FBE28]0.500kg[-]\n人體工學: [4FBE28]+35%[-]\n腰射精度: [4FBE28]+22.5%[-]\n\n相容性: SIG MPX/MCX/MCX 長矛 & SCAR-H
-modstockpmmulssDesc,"Weight: [4FBE28]0.460kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+12.5%[-]\nRecoil: [4FBE28]-25%[-]\n\nCompatibility: SIG MPX/MCX/MCX Spear & SCAR-H",重量: [4FBE28]0.460kg[-]\n人體工學: [4FBE28]+25%[-]\n腰射精度: [4FBE28]+12.5%[-]\n後座力: [4FBE28]-25%[-]\n\n相容性: SIGX/NCARAm-HMCX/n\n-HMCX/n\n-HMCX
-modstockVLtorVSS11Desc,"Weight: [4FBE28]0.630kg[-]\nErgonomics: [4FBE28]+20%[-]\nHipfire Accuracy: [4FBE28]+10%[-]\n\nCompatibility: SCAR-H",重量: [4FBE28]0.630kg[-]\n人體工學: [4FBE28]+20%[-]\n腰射精度: [4FBE28]+10%[-]\n\n適用: SCAR-H
-modstockpkzenitpt2Desc,"Weight: [4FBE28]0.640kg[-]\nErgonomics: [4FBE28]+30%[-]\nHipfire Accuracy: [4FBE28]+30%[-]\n\nCompatibility: PKP Pecheneg",重量: [4FBE28]0.640kg[-]\n人體工學: [4FBE28]+30%[-]\n腰射精度: [4FBE28]+30%[-]\n\n適用: PKP Pecheneg
-modstockSA58paraSPRDesc,"Weight: [4FBE28]0.950kg[-]\nErgonomics: [4FBE28]+10%[-]\nHipfire Accuracy: [4FBE28]+5%[-]\nRecoil: [4FBE28]-10%[-]\n\nCompatibility: FN FAL",體重: [4FBE28]0.950kg[-]\n人體工學: [4FBE28]+10%[-]\n腰射精度: [4FBE28]+5%[-]\n後座力: [4FBE28]-10%[-]\n\n適用: FN FAL
-ammoEft4046381,"40×46mm M381 (HE) Grenade",40×46毫米 M381 (HE) 榴彈
-ammoEft4046576,"40×46mm M576 MPB",40×46毫米 M576 多發散彈 (MPB)
-ammoEft4053vog25,"40×53mm VOG-25 Grenade",40×53毫米 VOG-25 榴彈
-ammoEft4046381Desc,"M381 high-explosive grenade used in various 40mm grenade launchers. \nLethal damage radius: [F44336]4 meters (or 4 blocks)[-]\nCasualty safe radius: [4FBE28]+8 meters (or 8 blocks)[-]",M381 高爆榴彈，用於各種 40 毫米榴彈發射器。 \n致命傷害半徑: [F44336]4 公尺（或 4 個格子）[-]\n傷亡安全半徑: [4FBE28]+8 公尺（或 8 個格子）[-]
-ammoEft4046576Desc,"M576 Multi-projectile Buckshot is a 40mm round. Used for emergency situations where a grenadier is forced to engage in CQB. Deals insane damage against soft targets and can quickly degrade heavily armored units at close range. ",M576 多發散彈是一種 40 毫米彈藥。用於榴彈兵被迫進行近距離戰鬥 (CQB) 的緊急情況。它對軟目標造成巨大傷害，並能在近距離迅速摧毀重裝甲部隊。
-ammoEft4053vog25Desc,"VOG-25 Grenade used in GP-25 under barrel grenade launcher attached to standard AK variants. \nLethal damage radius: [F44336]4 meters (or 4 blocks)[-]\nCasualty safe radius: [4FBE28]+8 meters (or 8 blocks)[-]",VOG-25 榴彈用於安裝在標準 AK 步槍上的 GP-25 槍管下榴彈發射器。 \n致命傷害半徑: [F44336]4 公尺（或 4 個方塊）[-]\n傷亡安全半徑: [4FBE28]+8 公尺（或 8 個方塊）[-]
-thrownGrenade,"M67 Delayed Hand Grenade",M67 延時手榴彈
-thrownGrenadeDesc,"M67 Delayed Hand Grenade with a 5s fuse time\nPull pin. Throw.\nArm with [action:local:Secondary]\nThrow with [action:local:Primary]\nLethal damage radius: [F44336]5 meters (or 5 blocks)[-]\nCasualty safe radius: [4FBE28]+10 meters (or 10 blocks)[-]",M67 延時手榴彈，引信時間 5 秒\n拉動保險銷。投擲。 \n使用 [action:local:Secondary] 裝備\n使用 [action:local:Primary] 投擲\n致命傷害半徑: [F44336]5 公尺（或 5 個方塊）[-]\n造成人員傷亡的安全半徑: [4FBE28]+10 公尺（或 10 個方塊）[-]
-thrownGrenadeContact,"RGN Impact Hand Grenade",RGN 衝擊手榴彈
-thrownGrenadeContactDesc,"RGN Impact-action Hand Grenade will explode on impact.\nArm with [action:local:Secondary]\nThrow with [action:local:Primary]\nLethal damage radius: [F44336]3.5 meters (or 3.5 blocks)[-]\nCasualty safe radius: [4FBE28]+7 meters (or 7 blocks)[-]",RGN 衝擊手榴彈在撞擊時會爆炸。 \n使用 [action:local:Secondary] 裝備\n使用 [action:local:Primary] 投擲\n致命傷害半徑: [F44336]3.5 公尺（或 3.5 個方塊）[-]\n造成人員傷亡的安全半徑: [4FBE28]+7 公尺（或 7 個方塊）[-]
-ammoEft54539Desc,"5.45×39 Ball Ammo.\nMedium caliber ammo with good performance. Good damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",5.45×39 圓形彈藥。 \n中等口徑彈藥，性能良好。傷害和穿透力好。對裝甲殭屍無效。降低肢體傷害。 \n可穿透高達750點生命值的方塊。
-ammoEft54539APDesc,"5.45×39 Armor Piercing Ammo.\nHigh penetration, ensuring you break through all but the highest level armors. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",5.45×39 穿甲彈。 \n高穿透力，確保你能擊穿除最高等級外的所有裝甲。降低肢體傷害。 \n可穿透高達1500點生命值的方塊。
-ammoEft54539HPDesc,"5.45×39 Hollow Point Ammo\nVery high damage against unarmored targets but struggles, when used against armored zombies.",5.45×39 空尖彈\n對無裝甲目標傷害極高，但對抗裝甲殭屍時效果不佳。
-ammoEft55645NATODesc,"5.56×45 Ball Ammo.\nMedium caliber ammo with good performance. Good damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",5.56×45 普通彈。 \n中等口徑彈藥，性能良好。傷害和穿透力好。對裝甲殭屍無效。降低肢體傷害。 \n可穿透高達750點生命值的方塊。
-ammoEft55645NATOAPDesc,"5.56×45 Armor Piercing Ammo.\nHigh penetration, ensuring you break through all but the highest level armors. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",5.56×45 穿甲彈。 \n高穿透力，確保你能擊穿除最高等級外的所有裝甲。減少對肢體的傷害。 \n可穿透高達 1500 點生命值的格擋。
-ammoEft55645NATOHPDesc,"5.56×45 Hollow Point Ammo\nVery high damage against unarmored targets but struggles, when used against armored zombies.",5.56×45 空尖彈\n對無裝甲目標傷害極高，但對抗裝甲殭屍時效果不佳。
-ammoEft300blkDesc,".300 blackout Ball Ammo.\nMedium caliber ammo with good performance. Good damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",.300 blackout 普通彈。 \n性能良好的中口徑彈藥。傷害和穿透力均佳。對裝甲殭屍無效。減少對肢體的傷害。 \n可穿透高達 750 點生命值的格擋。
-ammoEft300BlkAPDesc,".300 blackout Armor Piercing Ammo.\nHigh penetration, ensuring you break through all but the highest level armors. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",.300 blackout 穿甲彈。 \n高穿透力，確保你能擊穿除最高等級外的所有裝甲。減少對肢體的傷害。 \n可穿透高達 1500 點生命值的格擋。
-ammoEft300blkHPDesc,".300 blackout Hollow Point Ammo\nVery high damage against unarmored targets but struggles, when used against armored zombies.",.300 blackout 空尖彈\n對無裝甲目標傷害極高，但對抗裝甲殭屍時效果不佳。
-ammoEft76239Desc,"7.62×39 Ball Ammo.\nMedium caliber ammo with good performance. Good damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",7.62×39 普通彈。 \n中口徑彈藥，性能良好。傷害和穿透力均佳。對裝甲殭屍無效。肢體傷害降低。 \n可穿透高達 750 點生命值的格擋。
-ammoEft76239APDesc,"7.62×39 Armor Piercing Ammo.\nHigh penetration, ensuring you break through all but the highest level armors. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",7.62×39 穿甲彈。 \n高穿透力，確保擊穿除最高等級外的所有裝甲。肢體傷害降低。 \n可穿透高達 1500 點生命值的格擋。
-ammoEft76239HPDesc,"7.62×39 Hollow Point Ammo\nVery high damage against unarmored targets but struggles, when used against armored zombies.",7.62×39 空尖彈\n對無裝甲目標傷害極高，但對抗裝甲殭屍時效果不佳。
-ammoEft939Desc,"9×39 Ball Ammo.\nMedium caliber ammo with good performance. Good damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",9×39 普通彈。 \n中口徑彈藥，性能良好。傷害和穿透力均佳。對裝甲殭屍無效。降低肢體傷害。 \n可穿透高達750點生命值的格擋。
-ammoEft939APDesc,"9×39 Armor Piercing Ammo.\nHigh penetration, ensuring you break through all but the highest level armors. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",9×39穿甲彈。 \n高穿透力，確保你能擊穿除最高等級外的所有裝甲。降低肢體傷害。 \n可穿透高達1500點生命值的格擋。
-ammoEft939HPDesc,"9×39 Hollow Point Ammo\nVery high damage against unarmored targets but struggles, when used against armored zombies.",9×39空尖彈\n對無裝甲目標傷害極高，但對抗裝甲殭屍時效果不佳。
-ammoEft76251NATODesc,"7.62×51 Ball Ammo.\nHeavy-hitting standard ammo with solid damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",7.62×51普通彈。 \n高傷害標準彈藥，具有紮實的傷害和穿透力。對裝甲殭屍無效。降低肢體傷害。 \n可穿透高達750點生命值的格擋。
-ammoEft76251NATOAPDesc,"7.62×51 Armor Piercing Ammo.\nHigh penetration, making quick work of armored zombies at the cost of some raw damage. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",7.62×51穿甲彈。 \n高穿透力，可以快速消滅裝甲殭屍，但會造成一些原始傷害。降低肢體傷害。 \n可穿透高達1500點生命值的格擋。
-ammoEft76251NATOHPDesc,"7.62×51 Hollow Point Ammo\nDevastating damage on soft targets but poor armor penetration.",7.62×51 空尖彈\n對軟目標造成毀滅性傷害，但穿甲能力較差。
-ammoEft76254RDesc,"7.62×54R Ball Ammo.\nHeavy-hitting standard ammo with solid damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",7.62×54R 普通彈。 \n高傷害標準彈藥，具有紮實的傷害和穿透力。對裝甲殭屍無效。肢體傷害降低。 \n可穿透高達 750 點生命值的格擋。
-ammoEft76254RAPDesc,"7.62×54R Armor Piercing Ammo.\nHigh penetration, making quick work of armored zombies at the cost of some raw damage. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",7.62×54R 穿甲彈。 \n穿透力強，可以快速消滅裝甲殭屍，但會造成一些原始傷害。對肢體造成的傷害降低。 \n可以穿透高達1500點生命值的方塊。
-ammoEft76254RHPDesc,"7.62×54R Hollow Point Ammo\nDevastating damage on soft targets but poor armor penetration.",7.62×54R 空尖彈\n對軟目標造成毀滅性傷害，但裝甲穿透力較差。
-ammoEft12755PS12Desc,"12.7×55 Ball Ammo.\nHeavy-hitting standard ammo with solid damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",12.7×55 普通彈。 \n高傷害標準彈藥，具有紮實的傷害和穿透力。對裝甲殭屍無效。對肢體造成的傷害降低。 \n可以穿透高達1500點生命值的方塊。
-ammoEft12755PS12BDesc,"12.7×55 Armor Piercing Ammo.\nHigh penetration, making quick work of armored zombies at the cost of some raw damage. Deals reduced limbs damage.\nCan penetrate a block of up to 2500 hitpoints.",12.7×55 穿甲彈。 \n穿透力強，可以快速消滅裝甲殭屍，但會造成一些原始傷害。對肢體造成的傷害降低。 \n可以穿透高達2500點生命值的方塊。
-ammoEft12755PS12ADesc,"12.7×55 Hollow Point Ammo\nDevastating damage on soft targets but poor armor penetration.",12.7×55 空尖彈\n對軟目標造成毀滅性傷害，但裝甲穿透力較差。
-ammoEft338Desc,".338 Lapua Magnum Ball Ammo.\nHeavy-hitting standard ammo with solid damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",.338 拉普阿馬格南普通彈藥。 \n高傷害力的標準彈藥，具有紮實的傷害力和穿透力。對裝甲殭屍無效。對肢體造成的傷害降低。 \n可穿透高達1500點生命值的方塊。
-ammoEft338APDesc,".338 Lapua Magnum Armor Piercing Ammo.\nHigh penetration, making quick work of armored zombies at the cost of some raw damage. Deals reduced limbs damage.\nCan penetrate a block of up to 2500 hitpoints.",.338 拉普阿馬格南穿甲彈。 \n高穿透力，可以快速消滅裝甲殭屍，但會造成一些原始傷害。對肢體造成的傷害降低。 \n可穿透高達2500點生命值的方塊。
-ammoEft338HPDesc,".338 Lapua Magnum Hollow Point Ammo\nDevastating damage on soft targets but poor armor penetration.",.338 拉普阿馬格南空尖彈\n對軟目標造成毀滅性傷害，但裝甲穿透力較差。
-ammoEft76225mmTokarevDesc,"7.62×25 Ball Ammo.\nLight ammo with average performance. Decent damage and penetration for its size. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",7.62×25 普通彈藥。 \n輕型彈藥，性能一般。就其尺寸而言，傷害力和穿透力不錯。對裝甲殭屍無效。對肢體造成的傷害降低。 \n可穿透高達750點生命值的方塊。
-ammoEft918mmPMDesc,"9×18 Ball Ammo.\nLight ammo with average performance. Decent damage and penetration for its size. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",9×18 普通彈藥。 \n輕型彈藥，性能一般。就其體型而言，傷害和穿透力尚可。對裝甲殭屍無效。肢體傷害降低。 \n可穿透高達750點生命值的方塊。
-ammoEft919mmDesc,"9×19 Ball Ammo.\nLight ammo with average performance. Decent damage and penetration for its size. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",9×19 普通彈藥。 \n性能一般的輕型彈藥。就其尺寸而言，傷害和穿透力尚可。對裝甲殭屍無效。造成的肢體傷害降低。 \n可穿透高達 750 點生命值的格擋。
-ammoEft919mmAPDesc,"9×19 Armor Piercing Ammo.\nDecent penetration for breaking through low to mid-level armor, but lower base damage. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",9×19 穿甲彈。 \n穿透力不錯，可穿透中低等級的裝甲，但基礎傷害較低。造成的肢體傷害降低。 \n可穿透高達 1500 點生命值的格擋。
-ammoEft919mmHPDesc,"9×19 RIP Ammo\nHigh damage against unarmored targets but struggles with armor.",9×19 撕裂彈。 \n對無裝甲目標造成高傷害，但對抗裝甲目標時效果不佳。
-ammoEft921mmDesc,"9×21 Ball Ammo.\nLight ammo with average performance. Decent damage and penetration for its size. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",9×21 普通彈藥。 \n性能一般的輕型彈藥。就其尺寸而言，傷害和穿透力尚可。對裝甲殭屍無效。造成的肢體傷害降低。 \n可穿透高達 750 點生命值的格擋。
-ammoEft921mmAPDesc,"9×21 Armor Piercing Ammo.\nDecent penetration for breaking through low to mid-level armor, but lower base damage. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",9×21 穿甲彈。 \n穿透力不錯，可穿透中低等級的裝甲，但基礎傷害較低。造成的肢體傷害降低。 \n可穿透高達1500點生命值的方塊。
-ammoEft921mmHPDesc,"9×21 Hollow Point Ammo\nHigh damage against unarmored targets but struggles with armor.",9×21空尖彈\n對無裝甲目標傷害高，但難以穿透裝甲。
-ammoEft45ACPDesc,".45ACP Ball Ammo.\nLight ammo with average performance. Decent damage and penetration for its size. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",.45ACP普通彈。 \n性能一般的輕型彈藥。就其大小而言，傷害和穿透力不錯。對裝甲殭屍無效。造成的肢體傷害降低。 \n可穿透高達750點生命值的方塊。
-ammoEft45ACPAPDesc,".45ACP Armor Piercing Ammo.\nDecent penetration for breaking through low to mid-level armor, but lower base damage. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",.45ACP穿甲彈。 \n穿透力不錯，可穿透中低等級裝甲，但基礎傷害較低。造成的肢體傷害降低。 \n可穿透高達1500點生命值的方塊。
-ammoEft45ACPRIPDesc,".45ACP RIP Ammo\nHigh damage against unarmored targets but struggles with armor.",.45ACP RIP彈藥\n對無裝甲目標傷害高，但難以穿透裝甲。
-ammoEft4630mmHKDesc,"4.6×30 Ball Ammo.\nLight ammo with average performance. Decent damage and penetration for its size. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",4.6×30普通彈。 \n性能一般的輕型彈藥。就其大小而言，傷害和穿透力不錯。對裝甲殭屍無效。造成的肢體傷害降低。 \n可穿透高達750點生命值的格擋。
-ammoEft4630mmHKAPDesc,"4.6×30 Armor Piercing Ammo.\nDecent penetration for breaking through low to mid-level armor, but lower base damage. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",4.6×30 穿甲彈。 \n穿透力不錯，可擊穿中低等級的裝甲，但基礎傷害較低。造成的肢體傷害降低。 \n可穿透高達1500點生命值的格擋。
-ammoEft4630mmHKHPDesc,"4.6×30 Hollow Point Ammo\nHigh damage against unarmored targets but struggles with armor.",4.6×30 空尖彈\n對無裝甲目標傷害較高，但對裝甲目標效果不佳。
-ammoEft5728FNDesc,"5.7×28 Ball Ammo.\nLight ammo with average performance. Decent damage and penetration for its size. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",5.7×28 普通彈。 \n輕型彈藥，性能一般。就其尺寸而言，傷害和穿透力不錯。對裝甲殭屍無效。造成的肢體傷害降低。 \n可穿透高達750點生命值的格擋。
-ammoEft5728FNAPDesc,"5.7×28 Armor Piercing Ammo.\nDecent penetration for breaking through low to mid-level armor, but lower base damage. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",5.7×28 穿甲彈。 \n穿透力不錯，可擊穿中低等級的裝甲，但基礎傷害較低。造成的肢體傷害降低。 \n可穿透高達1500點生命值的格擋。
-ammoEft5728FNHPDesc,"5.7×28 Hollow Point Ammo\nHigh damage against unarmored targets but struggles with armor.",5.7×28 空尖彈\n對無裝甲目標傷害較高，但對有裝甲的目標傷害較小。
-ammoEft50aeDesc,".50 Action Express Ball Ammo.\nHeavy-hitting standard ammo with solid damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",.50 Action Express Ball Ammo。 \n高傷害標準彈藥，具有強大的傷害和穿透力。對裝甲殭屍無效。造成的肢體傷害降低。 \n可穿透高達 750 點生命值的方塊。
-ammoEft50aeHPDesc,".50 Action Express Hollow Point Ammo\nDevastating damage on soft targets but poor armor penetration.",.50 Action Express Hollow Point Ammo\n對軟目標造成毀滅性傷害，但裝甲穿透力較差。
-loadingTipEft1_title,"Escape From Tarkov Overhaul - v1.0Test",逃離塔科夫大修 - v1.0 測試版
-loadingTipEft1,"This is test version 1.0 of the Escape From Tarkov Overhaul.\nMost prominent new features: Action Skills, new gun handling system, economy reballance & more trader heavy gameplay and a lot more ballance/gameplay changes. The game is overall harder now.\nRemoved: perks, perk books, readable magazines, sneak damage, stealth, armor modifiers (besides helmet light & NVG's), non-military looking armors.",這是逃離塔科夫大修的 1.0 測試版。 \n最突出的新功能: 主動技能、新的槍支操控系統、經濟平衡調整、更多以商人為主導的玩法以及更多平衡/玩法改動。遊戲現在整體難度更高。 \n移除: 技能、技能圖鑑、可讀彈夾、潛行傷害、潛行、裝甲修改器（頭盔燈和夜視鏡除外）、非軍用外觀裝甲。
-loadingTipEft2_title,"New Guns And Attachments",全新槍枝及配件
-loadingTipEft2,"This mod adds over 100+ guns with over 200+ multifunctional attachments like reflex sights, scopes, grips, stocks, underbarrel grenade launcher, muzzle devices and silencers. You can acquire guns and attachments by crafting them or finding them in weaponry-related loot/traders.",此模組新增了 100 多支槍支，並配備 200 多種多功能配件，例如反射式瞄準鏡、瞄準鏡、握把、槍托、槍管下掛式榴彈發射器、槍口裝置和消音器。您可以透過製作或在武器相關的戰利品/交易商處取得槍支及配件。
-loadingTipEft3_title,"Ammo And Disassembly",彈藥及拆卸
-loadingTipEft3,"This mod adds 17 new ammo types; each consisting of Ball, Hollow Point and Armor Piercing.\nBall ammo is the all rounder generalist. Armor piercing ammo is more effective against armored zombies and groups due to its better penetration stats. Hollow point ammo, with higher flesh damage and lower penetration stats, is better for dealing with soft targets, including limbs which are generally not armored.\nAmmo can be disassembled to get all their resources: type 'disassembly' in the crafting window to craft disassembly bundles.",此模組新增了 17 種彈藥類型，包括普通彈藥、空尖彈和穿甲彈。 \n普通彈藥是全能型彈藥。穿甲彈由於穿透力較強，對付裝甲殭屍和群體目標更有效。空尖彈肉體傷害更高，穿透力更低，更適合對付軟目標，包括通常沒有裝甲的肢體。 \n彈藥可以拆卸以獲取所有資源: 在製作窗口中輸入“disassembly”即可製作拆卸包。
-loadingTipEft4_title,"New Items",新物品
-loadingTipEft4,"This mod adds a lot of useful items. Chemical crafting items, rare valuables, medics, food, drinks, liquor & injectors. Ammo crafting is more complex and all consumnables have their respective animations.",此模組新增了許多實用物品。包括化學合成物品、稀有物品、醫療器、食物、飲料、酒類和注射器。彈藥的合成更加複雜，所有消耗品都有各自的動畫。
-loadingTipEft5_title,"Limb shots",肢體射擊
-loadingTipEft5,"Shooting at limbs will deal reduced damage. HP ammo can ignore this penalty. ",射擊肢體會降低傷害。高血量彈藥可以忽略此傷害減免。
-loadingTipEft6_title,"Action Skills and Stats",主動技能和屬性
-loadingTipEft6,"You can check your gun stats and action skill stats in the player stats window (default key B). The windows display your currently holding gun stats and the progression of your action skill bonuses.",您可以在玩家屬性視窗（預設鍵為B）查看您的槍枝屬性和主動技能屬性。視窗會顯示您目前持有的槍枝屬性以及主動技能加成的進度。
-loadingTipEft7_title,"Economy And Traders",經濟與貿易
-loadingTipEft7,"The currency has been changed to roubles. Each Trader specializes in different wares with their own unique stash.",貨幣已更改為盧布。每個貿易商都專營不同的商品，並擁有自己獨特的儲藏。
+gunfamasDesc,"FAMAS Assault Rifle\n\nUses Ammo Type: [D3CE1D]5.56×45[-]\nRepaired with: [D3CE1D]Weapon Repair Kit[-]\n\nRequires a grip or under barrel to equip flashlights/lasers.",FAMAS 突擊步槍\n\n使用彈藥類型: [D3CE1D]5.56×45[-]\n可用於維修: [D3CE1D]武器維修工具組[-]\n\n需安裝握把或下掛裝置才能配備手電筒或雷射瞄準器
+muzzle_mosin_tacfire_tanker_style_762x54rDesc,"Weight: [4FBE28]0.250kg[-]\nRecoil: [4FBE28]-18%[-]\n\nCompatibility: Mosin-Nagant",重量: [4FBE28]0.250kg[-]\n後座力: [4FBE28]-18%[-]\n\n相容性: Mosin-Nagant
+modstockttmachinecustomDesc,"Weight: [4FBE28]0.050kg[-]\nErgonomics: [4FBE28]+10%[-]\nHipfire Accuracy: [4FBE28]+25%[-]\nRecoil: [4FBE28]-25%[-]\n\nCompatibility: TT-33 Automatic",重量: [4FBE28]0.050kg[-]\n人機功效: [4FBE28]+10%[-]\n腰射精準度: [4FBE28]+25%[-]\n後座力: [4FBE28]-25%[-]\n\n相容性: TT-33 Automatic
+modstockstechkinwireDesc,"Weight: [4FBE28]0.050kg[-]\nErgonomics: [4FBE28]+10%[-]\nHipfire Accuracy: [4FBE28]+25%[-]\nRecoil: [4FBE28]-27%[-]\n\nCompatibility: Stechkin APS",重量: [4FBE28]0.050kg[-]\n人機功效: [4FBE28]+10%[-]\n腰射精準度: [4FBE28]+25%[-]\n後座力: [4FBE28]-27%[-]\n\n相容性: Stechkin APS
+modstockglockfdglr17Desc,"Weight: [4FBE28]0.050kg[-]\nErgonomics: [4FBE28]+10%[-]\nHipfire Accuracy: [4FBE28]+25%[-]\nRecoil: [4FBE28]-23%[-]\n\nCompatibility: Glock 17 & Glock 18C",重量: [4FBE28]0.050kg[-]\n人機功效: [4FBE28]+10%[-]\n腰射精準度: [4FBE28]+25%[-]\n後座力: [4FBE28]-23%[-]\n\n相容性: Glock 17 & Glock 18C
+modstockmp5kpdwDesc,"Weight: [4FBE28]0.050kg[-]\nErgonomics: [4FBE28]+15%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\nRecoil: [4FBE28]-18%[-]\n\nCompatibility: MP5K",重量: [4FBE28]0.050kg[-]\n人機功效: [4FBE28]+15%[-]\n腰射精準度: [4FBE28]+15%[-]\n後座力: [4FBE28]-18%[-]\n\n相容性: MP5K
+modstockmp5a2Desc,"Weight: [4FBE28]0.400kg[-]\nErgonomics: [4FBE28]+15%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\nRecoil: [4FBE28]-24%[-]\n\nCompatibility: MP5 & MP5SD",重量: [4FBE28]0.400kg[-]\n人機功效: [4FBE28]+15%[-]\n腰射精準度: [4FBE28]+15%[-]\n後座力: [4FBE28]-24%[-]\n\n相容性: MP5 & MP5SD
+modstockp90dibuttpadDesc,"Weight: [4FBE28]0.060kg[-]\nErgonomics: [4FBE28]+15%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\nRecoil: [4FBE28]-15%[-]\n\nCompatibility: P90",重量: [4FBE28]0.060kg[-]\n人機功效: [4FBE28]+15%[-]\n腰射精準度: [4FBE28]+15%[-]\n後座力: [4FBE28]-15%[-]\n\n相容性: P90
+modstockakzenitpt1Desc,"Weight: [4FBE28]0.480kg[-]\nErgonomics: [4FBE28]+6%[-]\nHipfire Accuracy: [4FBE28]+6%[-]\nRecoil: [4FBE28]-26%[-]\n\nCompatibility: PP-19-01, AKS-74UN, AK-74N/M, AK-107, AKMN, AK-103, AK-109, Velociraptor, Saiga-12K","重量: [4FBE28]0.480kg[-]\n人機功效: [4FBE28]+6%[-]\n腰射精準度: [4FBE28]+6%[-]\n後座力: [4FBE28]-26%[-]\n\n相容性: PP-19-01, AKS-74UN, AK-74N/M, AK-107, AKMN, AK-103, AK-109, Velociraptor, Saiga-12K"
+modstockakzenitpt3Desc,"Weight: [4FBE28]0.250kg[-]\nErgonomics: [4FBE28]+12%[-]\nHipfire Accuracy: [4FBE28]+12%[-]\nRecoil: [4FBE28]-27%[-]\n\nCompatibility: PP-19-01, AKS-74UN, AK-74N/M, AK-107, AKMN, AK-103, AK-109, Velociraptor, Saiga-12K","重量: [4FBE28]0.250kg[-]\n人機功效: [4FBE28]+12%[-]\n腰射精準度: [4FBE28]+12%[-]\n後座力: [4FBE28]-27%[-]\n\n相容性: PP-19-01, AKS-74UN, AK-74N/M, AK-107, AKMN, AK-103, AK-109, Velociraptor, Saiga-12K"
+modstockakzhukovmagpulDesc,"Weight: [4FBE28]0.430kg[-]\nErgonomics: [4FBE28]+24%[-]\nHipfire Accuracy: [4FBE28]+12%[-]\nRecoil: [4FBE28]-28%[-]\n\nCompatibility: AK-74N, AKMN & AK-103, RD-704","重量: [4FBE28]0.430kg[-]\n人機功效: [4FBE28]+24%[-]\n腰射精準度: [4FBE28]+12%[-]\n後座力: [4FBE28]-28%[-]\n\n相容性: AK-74N, AKMN & AK-103, RD-704"
+modstocka2ar15prsgen2tanDesc,"Weight: [4FBE28]0.950kg[-]\nErgonomics: [4FBE28]+15%[-]\nHipfire Accuracy: [4FBE28]+7.5%[-]\nRecoil: [4FBE28]-24%[-]\n\nCompatibility: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, ST AR-15, FN FAL, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1","重量: [4FBE28]0.950kg[-]\n人機功效: [4FBE28]+15%[-]\n腰射精準度: [4FBE28]+7.5%[-]\n後座力: [4FBE28]-24%[-]\n\n相容性: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, ST AR-15, FN FAL, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1"
+modstocka2ar15prsgen3Desc,"Weight: [4FBE28]0.970kg[-]\nErgonomics: [4FBE28]+20%[-]\nHipfire Accuracy: [4FBE28]+10%[-]\nRecoil: [4FBE28]-24%[-]\n\nCompatibility: AR-15 styled stock. Can fit on many guns.",重量: [4FBE28]0.970kg[-]\n人機功效: [4FBE28]+20%[-]\n腰射精準度: [4FBE28]+10%[-]\n後座力: [4FBE28]-24%[-]\n\n相容性: AR-15 風格槍托。適用於多種槍械。
+modstockar15b5precisionDesc,"Weight: [4FBE28]0.350kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\nRecoil: [4FBE28]-28%[-]\n\nCompatibility: AR-15 styled stock. Can fit on many guns.",重量: [4FBE28]0.350kg[-]\n人機功效: [4FBE28]+25%[-]\n腰射精準度: [4FBE28]+15%[-]\n後座力: [4FBE28]-28%[-]\n\n相容性: AR-15 風格槍托。適用於多種槍械。
+modstockar15troym7a1Desc,"Weight: [4FBE28]0.400kg[-]\nErgonomics: [4FBE28]+10%[-]\nHipfire Accuracy: [4FBE28]+10%[-]\nRecoil: [4FBE28]-18%[-]\n\nCompatibility: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, ST AR-15, FN FAL, RSASS, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1","重量: [4FBE28]0.400kg[-]\n人機功效: [4FBE28]+10%[-]\n腰射精準度: [4FBE28]+10%[-]\n後座力: [4FBE28]-18%[-]\n\n相容性: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, ST AR-15, FN FAL, RSASS, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1"
+modstockar15glcoreDesc,"Weight: [4FBE28]0.461kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\nRecoil: [4FBE28]-19%[-]\n\nCompatibility: AR-15 styled stock. Can fit on many guns.",重量: [4FBE28]0.461kg[-]\n人機功效: [4FBE28]+25%[-]\n腰射精準度: [4FBE28]+15%[-]\n後座力: [4FBE28]-19%[-]\n\n相容性: AR-15 風格槍托。適用於多種槍械。
+modstockar15acesocomgen4Desc,"Weight: [4FBE28]0.470kg[-]\nErgonomics: [4FBE28]+40%[-]\nHipfire Accuracy: [4FBE28]+20%[-]\nRecoil: [4FBE28]-22%[-]\n\nCompatibility: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, ST AR-15, FN FAL, SR-25, RSASS, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1","重量: [4FBE28]0.470kg[-]\n人機功效: [4FBE28]+40%[-]\n腰射精準度: [4FBE28]+20%[-]\n後座力: [4FBE28]-22%[-]\n\n相容性: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, ST AR-15, FN FAL, SR-25, RSASS, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1"
+modstockar15hke1Desc,"Weight: [4FBE28]0.520kg[-]\nErgonomics: [4FBE28]+12%[-]\nHipfire Accuracy: [4FBE28]+12%[-]\nRecoil: [4FBE28]-23%[-]\n\nCompatibility: AR-15 styled stock. Can fit on many guns.",重量: [4FBE28]0.520kg[-]\n人機功效: [4FBE28]+12%[-]\n腰射精準度: [4FBE28]+12%[-]\n後座力: [4FBE28]-23%[-]\n\n相容性: AR-15 風格槍托。適用於多種槍械。
+modstockar15ergof93proDesc,"Weight: [4FBE28]0.590kg[-]\nErgonomics: [4FBE28]+20%[-]\nHipfire Accuracy: [4FBE28]+20%[-]\nRecoil: [4FBE28]-21%[-]\n\nCompatibility: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, ST AR-15, FN FAL, SR-25, RSASS, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1","重量: [4FBE28]0.590kg[-]\n人機功效: [4FBE28]+20%[-]\n腰射精準度: [4FBE28]+20%[-]\n後座力: [4FBE28]-21%[-]\n\n相容性: Vector 9/45, STM-9, M4A1, M16A4, HK416A5, ST AR-15, FN FAL, SR-25, RSASS, M14 SASS, SVDS, Mk-18, RD-704, Mk47, M590A1"
+modstockIWICarmelErgoDesc,"Weight: [4FBE28]0.500kg[-]\nErgonomics: [4FBE28]+20%[-]\nHipfire Accuracy: [4FBE28]+10%[-]\nRecoil: [4FBE28]-21%[-]\n\nCompatibility: IWI Carmel",重量: [4FBE28]0.500kg[-]\n人機功效: [4FBE28]+20%[-]\n腰射精準度: [4FBE28]+10%[-]\n後座力: [4FBE28]-21%[-]\n\n相容性: IWI Carmel
+modstockfnminimilightweightDesc,"Weight: [4FBE28]0.300kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+12.5%[-]\nRecoil: [4FBE28]-25%[-]\n\nCompatibility: FN Minimi",重量: [4FBE28]0.300kg[-]\n人機功效: [4FBE28]+25%[-]\n腰射精準度: [4FBE28]+12.5%[-]\n後座力: [4FBE28]-25%[-]\n\n相容性: FN Minimi
+modstocksigtelescopingDesc,"Weight: [4FBE28]0.340kg[-]\nErgonomics: [4FBE28]+40%[-]\nHipfire Accuracy: [4FBE28]+10%[-]\nRecoil: [4FBE28]-20%[-]\n\nCompatibility: SIG MPX/MCX/MCX Spear & SCAR-H",重量: [4FBE28]0.340kg[-]\n人機功效: [4FBE28]+40%[-]\n腰射精準度: [4FBE28]+10%[-]\n後座力: [4FBE28]-20%[-]\n\n相容性: SIG MPX/MCX/MCX Spear & SCAR-H
+modstockmaximcqbDesc,"Weight: [4FBE28]0.500kg[-]\nErgonomics: [4FBE28]+20%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\nRecoil: [4FBE28]-21%[-]\n\nCompatibility: SIG MPX/MCX/MCX Spear & SCAR-H",重量: [4FBE28]0.500kg[-]\n人機功效: [4FBE28]+20%[-]\n腰射精準度: [4FBE28]+15%[-]\n後座力: [4FBE28]-21%[-]\n\n相容性: SIG MPX/MCX/MCX Spear & SCAR-H
+modstockpmmulssDesc,"Weight: [4FBE28]0.460kg[-]\nErgonomics: [4FBE28]+30%[-]\nHipfire Accuracy: [4FBE28]+20%[-]\nRecoil: [4FBE28]-23%[-]\n\nCompatibility: SIG MPX/MCX/MCX Spear & SCAR-H",重量: [4FBE28]0.460kg[-]\n人機功效: [4FBE28]+30%[-]\n腰射精準度: [4FBE28]+20%[-]\n後座力: [4FBE28]-23%[-]\n\n相容性: SIG MPX/MCX/MCX Spear & SCAR-H
+modstockSA58paraSPRDesc,"Weight: [4FBE28]0.950kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+5%[-]\nRecoil: [4FBE28]-25%[-]\n\nCompatibility: FN FAL",重量: [4FBE28]0.950kg[-]\n人機功效: [4FBE28]+25%[-]\n腰射精準度: [4FBE28]+5%[-]\n後座力: [4FBE28]-25%[-]\n\n相容性: FN FAL
+modstockSA58paraBRSDesc,"Weight: [4FBE28]0.810kg[-]\nErgonomics: [4FBE28]+15%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\nRecoil: [4FBE28]-25%[-]\n\nCompatibility: FN FAL",重量: [4FBE28]0.810kg[-]\n人機功效: [4FBE28]+15%[-]\n腰射精準度: [4FBE28]+15%[-]\n後座力: [4FBE28]-25%[-]\n\n相容性: FN FAL
+modstockVLtorVSS11Desc,"Weight: [4FBE28]0.630kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+10%[-]\nRecoil: [4FBE28]-23%[-]\n\nCompatibility: SCAR-H",重量: [4FBE28]0.630kg[-]\n人機功效: [4FBE28]+25%[-]\n腰射精準度: [4FBE28]+10%[-]\n後座力: [4FBE28]-23%[-]\n\n相容性: SCAR-H  
+modstock417hke2Desc,"Weight: [4FBE28]0.550kg[-]\nErgonomics: [4FBE28]+15%[-]\nHipfire Accuracy: [4FBE28]+20%[-]\nRecoil: [4FBE28]-23%[-]\n\nCompatibility: HK417 & G28",重量: [4FBE28]0.550kg[-]\n人機功效: [4FBE28]+15%[-]\n腰射精準度: [4FBE28]+20%[-]\n後座力: [4FBE28]-23%[-]\n\n相容性: HK417 & G28  
+modstockpkzenitpt2Desc,"Weight: [4FBE28]0.640kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+12.5%[-]\nRecoil: [4FBE28]-21%[-]\n\nCompatibility: PKP Pecheneg",重量: [4FBE28]0.640kg[-]\n人機功效: [4FBE28]+25%[-]\n腰射精準度: [4FBE28]+12.5%[-]\n後座力: [4FBE28]-21%[-]\n\n相容性: PKP Pecheneg  
+modstockm3benelliurbinoDesc,"Weight: [4FBE28]1.043kg[-]\nErgonomics: [4FBE28]+10%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\nRecoil: [4FBE28]-25%[-]\n\nCompatibility: M3 Benelli",重量: [4FBE28]1.043kg[-]\n人機功效: [4FBE28]+10%[-]\n腰射精準度: [4FBE28]+15%[-]\n後座力: [4FBE28]-25%[-]\n\n相容性: M3 Benelli  
+modstockmaximcqb,"[BB00FF]Maxim CQB[-]",[BB00FF]Maxim CQB[-]  
+modstock_ak_izhmash_ak_evo,"[FFD700]AK Evo-styled Stock[-]",[FFD700]AK Evo 風格槍托[-]  
+modstock_ak_izhmash_ak_evoDesc,"Weight: [4FBE28]0.397kg[-]\nErgonomics: [4FBE28]+25%[-]\nHipfire Accuracy: [4FBE28]+25%[-]\nRecoil: [4FBE28]-28%[-]\n\nCompatibility: AKS-74UN, AK-74M, AK-107, AK-109, AK-12, RPK-16, Saiga-12K","重量: [4FBE28]0.397kg[-]\n人機功效: [4FBE28]+25%[-]\n腰射精準度: [4FBE28]+25%[-]\n後座力: [4FBE28]-28%[-]\n\n相容性: AKS-74UN, AK-74M, AK-107, AK-109, AK-12, RPK-16, Saiga-12K  "
+modstock_ak_promag_archangel_opfor_aa47,"[FFD700]Archangel OPFOR AA47 Stock[-]",[FFD700]Archangel OPFOR AA47 槍托[-]  
+modstock_ak_promag_archangel_opfor_aa47Desc,"Weight: [4FBE28]0.39kg[-]\nErgonomics: [4FBE28]+36%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\nRecoil: [4FBE28]-27%[-]\n\nCompatibility: AK-74N, AKMN & AK-103, RD-704, Velociraptor","重量: [4FBE28]0.39kg[-]\n人機功效: [4FBE28]+36%[-]\n腰射精準度: [4FBE28]+15%[-]\n後座力: [4FBE28]-27%[-]\n\n相容性: AK-74N, AKMN & AK-103, RD-704, Velociraptor  "
+modstock_ak_hera_arms_cqr47,"[004CFF]HeraArms CQR 47 Stock[-]",[004CFF]HeraArms CQR 47 槍托[-]  
+modstock_ak_hera_arms_cqr47Desc,"Weight: [4FBE28]0.525kg[-]\nErgonomics: [4FBE28]+15%[-]\nHipfire Accuracy: [4FBE28]+15%[-]\nRecoil: [4FBE28]-25%[-]\n\nCompatibility: AK-74N, AKMN & AK-103, RD-704, Velociraptor","重量: [4FBE28]0.525kg[-]\n人機功效: [4FBE28]+15%[-]\n腰射精準度: [4FBE28]+15%[-]\n後座力: [4FBE28]-25%[-]\n\n相容性: AK-74N, AKMN & AK-103, RD-704, Velociraptor"
+09FF00 2,,
+004CFF 3,,
+BB00FF 4,,
+FFD700 5,,
+ammoEft4046381,"40×46mm M381 (HE) Grenade",40×46mm M381 (HE) 榴彈
+ammoEft4046576,"40×46mm M576 MPB",40×46mm M576 MPB
+ammoEft4053vog25,"40×53mm VOG-25 Grenade",40×53mm VOG-25 榴彈
+ammoEft4046381Desc,"M381 high-explosive grenade used in various 40mm grenade launchers. \nLethal damage radius: [F44336]4 meters (or 4 blocks)[-]\nCasualty safe radius: [4FBE28]+8 meters (or 8 blocks)[-]",M381 高爆榴彈，適用於各種 40mm 榴彈發射器。\n致命傷害半徑: [F44336]4 公尺（或 4 格）[-]\n安全半徑: [4FBE28]+8 公尺（或 8 格）[-]
+ammoEft4046576Desc,"M576 Multi-projectile Buckshot is a 40mm round. Used for emergency situations where a grenadier is forced to engage in CQB. Deals insane damage against soft targets and can quickly degrade heavily armored units at close range. ",M576 多發散彈是一種 40mm 彈藥。適用於迫不得已需要近距離作戰的情境。對軟性目標傷害極高，並能快速削弱重裝甲單位。
+ammoEft4053vog25Desc,"VOG-25 Grenade used in GP-25 under barrel grenade launcher attached to standard AK variants. \nLethal damage radius: [F44336]4 meters (or 4 blocks)[-]\nCasualty safe radius: [4FBE28]+8 meters (or 8 blocks)[-]",VOG-25 榴彈，適用於 GP-25 下掛式榴彈發射器，可安裝於標準 AK 系列步槍。\n致命傷害半徑: [F44336]4 公尺（或 4 格）[-]\n安全半徑: [4FBE28]+8 公尺（或 8 格）[-]
+thrownGrenade,"M67 Delayed Hand Grenade",M67 延遲手榴彈
+thrownGrenadeDesc,"M67 Delayed Hand Grenade with a 5s fuse time\nPull pin. Throw.\nArm with [action:local:Secondary]\nThrow with [action:local:Primary]\nLethal damage radius: [F44336]5 meters (or 5 blocks)[-]\nCasualty safe radius: [4FBE28]+10 meters (or 10 blocks)[-]",M67 延遲手榴彈，5 秒引信時間。\n拉開插銷，投擲。\n啟用 [action:local:Secondary]\n投擲 [action:local:Primary]\n致命傷害半徑: [F44336]5 公尺（或 5 格）[-]\n安全半徑: [4FBE28]+10 公尺（或 10 格）[-]
+thrownGrenadeContact,"RGN Impact Hand Grenade",RGN 碰撞手榴彈
+thrownGrenadeContactDesc,"RGN Impact-action Hand Grenade will explode on impact.\nArm with [action:local:Secondary]\nThrow with [action:local:Primary]\nLethal damage radius: [F44336]3.5 meters (or 3.5 blocks)[-]\nCasualty safe radius: [4FBE28]+7 meters (or 7 blocks)[-]",RGN 碰撞引爆手榴彈，落地即爆炸。\n啟用 [action:local:Secondary]\n投擲 [action:local:Primary]\n致命傷害半徑: [F44336]3.5 公尺（或 3.5 格）[-]\n安全半徑: [4FBE28]+7 公尺（或 7 格）[-]
+ammoEft54539Desc,"5.45×39 Ball Ammo.\nMedium caliber ammo with good performance. Good damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",5.45×39 標準彈\n中型口徑彈藥，擁有良好性能。具備不錯的傷害與穿透能力，但對裝甲殭屍效果有限，對四肢造成的傷害減少。\n可穿透最多 750 點耐久度的物體。
+ammoEft54539APDesc,"5.45×39 Armor Piercing Ammo.\nHigh penetration, ensuring you break through all but the highest level armors. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",5.45×39 穿甲彈\n高穿透力，可擊穿除最高級別裝甲以外的所有防禦。對四肢造成的傷害減少。\n可穿透最多 1500 點耐久度的物體。
+ammoEft54539HPDesc,"5.45×39 Hollow Point Ammo\nVery high damage against unarmored targets but struggles, when used against armored zombies.",5.45×39 空尖彈\n對無防護目標造成極高傷害，但面對裝甲殭屍時效果有限。
+ammoEft55645NATODesc,"5.56×45 Ball Ammo.\nMedium caliber ammo with good performance. Good damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",5.56×45 標準彈\n中型口徑彈藥，擁有良好性能。具備不錯的傷害與穿透能力，但對裝甲殭屍效果有限，對四肢造成的傷害減少。\n可穿透最多 750 點耐久度的物體。
+ammoEft55645NATOAPDesc,"5.56×45 Armor Piercing Ammo.\nHigh penetration, ensuring you break through all but the highest level armors. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",5.56×45 穿甲彈\n高穿透力，可擊穿除最高級別裝甲以外的所有防禦。對四肢造成的傷害減少。\n可穿透最多 1500 點耐久度的物體。
+ammoEft55645NATOHPDesc,"5.56×45 Hollow Point Ammo\nVery high damage against unarmored targets but struggles, when used against armored zombies.",5.56×45 空尖彈\n對無防護目標造成極高傷害，但面對裝甲殭屍時效果有限。
+ammoEft300blkDesc,".300 blackout Ball Ammo.\nMedium caliber ammo with good performance. Good damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",.300 Blackout 標準彈\n中型口徑彈藥，擁有良好性能。具備不錯的傷害與穿透能力，但對裝甲殭屍效果有限，對四肢造成的傷害減少。\n可穿透最多 750 點耐久度的物體。
+ammoEft300BlkAPDesc,".300 blackout Armor Piercing Ammo.\nHigh penetration, ensuring you break through all but the highest level armors. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",.300 Blackout 穿甲彈\n高穿透力，可擊穿除最高級別裝甲以外的所有防禦。對四肢造成的傷害減少。\n可穿透最多 1500 點耐久度的物體。
+ammoEft300blkHPDesc,".300 blackout Hollow Point Ammo\nVery high damage against unarmored targets but struggles, when used against armored zombies.",.300 Blackout 空尖彈\n對無防護目標造成極高傷害，但面對裝甲殭屍時效果有限。
+ammoEft76239Desc,"7.62×39 Ball Ammo.\nMedium caliber ammo with good performance. Good damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",7.62×39 標準彈\n中型口徑彈藥，擁有良好性能。具備不錯的傷害與穿透能力，但對裝甲殭屍效果有限，對四肢造成的傷害減少。\n可穿透最多 750 點耐久度的物體。
+ammoEft76239APDesc,"7.62×39 Armor Piercing Ammo.\nHigh penetration, ensuring you break through all but the highest level armors. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",7.62×39 穿甲彈\n高穿透力，可擊穿除最高級別裝甲以外的所有防禦。對四肢造成的傷害減少。\n可穿透最多 1500 點耐久度的物體。
+ammoEft76239HPDesc,"7.62×39 Hollow Point Ammo\nVery high damage against unarmored targets but struggles, when used against armored zombies.",7.62×39 空尖彈\n對無防護目標造成極高傷害，但面對裝甲殭屍時效果有限。
+ammoEft939Desc,"9×39 Ball Ammo.\nMedium caliber ammo with good performance. Good damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",9×39 標準彈\n中型口徑彈藥，具備不錯的傷害與穿透能力，但對裝甲殭屍效果有限，對四肢傷害減少。\n可穿透最多 750 點耐久度的物體。
+ammoEft939APDesc,"9×39 Armor Piercing Ammo.\nHigh penetration, ensuring you break through all but the highest level armors. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",9×39 穿甲彈\n高穿透力，可擊穿除最高級別裝甲以外的所有防禦。對四肢傷害減少。\n可穿透最多 1500 點耐久度的物體。
+ammoEft939HPDesc,"9×39 Hollow Point Ammo\nVery high damage against unarmored targets but struggles, when used against armored zombies.",9×39 空尖彈\n對無防護目標造成極高傷害，但面對裝甲殭屍時效果有限。
+ammoEft76251NATODesc,"7.62×51 Ball Ammo.\nHeavy-hitting standard ammo with solid damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",7.62×51 標準彈\n重型標準彈藥，具備良好傷害與穿透能力，但對裝甲殭屍效果有限，對四肢傷害減少。\n可穿透最多 750 點耐久度的物體。
+ammoEft76251NATOAPDesc,"7.62×51 Armor Piercing Ammo.\nHigh penetration, making quick work of armored zombies at the cost of some raw damage. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",7.62×51 穿甲彈\n高穿透力，可迅速對付裝甲殭屍，但犧牲部分原始傷害。對四肢傷害減少。\n可穿透最多 1500 點耐久度的物體。
+ammoEft76251NATOHPDesc,"7.62×51 Hollow Point Ammo\nDevastating damage on soft targets but poor armor penetration.",7.62×51 空尖彈\n對軟性目標造成毀滅性傷害，但裝甲穿透能力低。
+ammoEft76254RDesc,"7.62×54R Ball Ammo.\nHeavy-hitting standard ammo with solid damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",7.62×54R 標準彈\n重型標準彈藥，具備良好傷害與穿透能力，但對裝甲殭屍效果有限，對四肢傷害減少。\n可穿透最多 750 點耐久度的物體。
+ammoEft76254RAPDesc,"7.62×54R Armor Piercing Ammo.\nHigh penetration, making quick work of armored zombies at the cost of some raw damage. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",7.62×54R 穿甲彈\n高穿透力，可迅速對付裝甲殭屍，但犧牲部分原始傷害。對四肢傷害減少。\n可穿透最多 1500 點耐久度的物體。
+ammoEft76254RHPDesc,"7.62×54R Hollow Point Ammo\nDevastating damage on soft targets but poor armor penetration.",7.62×54R 空尖彈\n對軟性目標造成毀滅性傷害，但裝甲穿透能力低。
+ammoEft12755PS12Desc,"12.7×55 Ball Ammo.\nHeavy-hitting standard ammo with solid damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",12.7×55 標準彈\n重型標準彈藥，具備良好傷害與穿透能力，但對裝甲殭屍效果有限，對四肢傷害減少。\n可穿透最多 1500 點耐久度的物體。
+ammoEft12755PS12BDesc,"12.7×55 Armor Piercing Ammo.\nHigh penetration, making quick work of armored zombies at the cost of some raw damage. Deals reduced limbs damage.\nCan penetrate a block of up to 2500 hitpoints.",12.7×55 穿甲彈\n高穿透力，可迅速對付裝甲殭屍，但犧牲部分原始傷害。對四肢傷害減少。\n可穿透最多 2500 點耐久度的物體。
+ammoEft12755PS12ADesc,"12.7×55 Hollow Point Ammo\nDevastating damage on soft targets but poor armor penetration.",12.7×55 空尖彈\n對軟性目標造成毀滅性傷害，但裝甲穿透能力低。
+ammoEft338Desc,".338 Lapua Magnum Ball Ammo.\nHeavy-hitting standard ammo with solid damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",.338 Lapua Magnum 標準彈\n重型標準彈藥，具備良好傷害與穿透能力，但對裝甲殭屍效果有限，對四肢傷害減少。\n可穿透最多 1500 點耐久度的物體。
+ammoEft338APDesc,".338 Lapua Magnum Armor Piercing Ammo.\nHigh penetration, making quick work of armored zombies at the cost of some raw damage. Deals reduced limbs damage.\nCan penetrate a block of up to 2500 hitpoints.",.338 Lapua Magnum 穿甲彈\n高穿透力，可迅速對付裝甲殭屍，但犧牲部分原始傷害。對四肢傷害減少。\n可穿透最多 2500 點耐久度的物體。
+ammoEft338HPDesc,".338 Lapua Magnum Hollow Point Ammo\nDevastating damage on soft targets but poor armor penetration.",.338 Lapua Magnum 空尖彈\n對軟性目標造成毀滅性傷害，但裝甲穿透能力低。
+ammoEft76225mmTokarevDesc,"7.62×25 Ball Ammo.\nLight ammo with average performance. Decent damage and penetration for its size. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",7.62×25 標準彈\n輕型彈藥，具備平均性能，傷害與穿透能力尚可，但對裝甲殭屍效果有限，對四肢傷害減少。\n可穿透最多 750 點耐久度的物體。
+ammoEft918mmPMDesc,"9×18 Ball Ammo.\nLight ammo with average performance. Decent damage and penetration for its size. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",9×18 標準彈\n輕型彈藥，具備平均性能，傷害與穿透能力尚可，但對裝甲殭屍效果有限，對四肢傷害減少。\n可穿透最多 750 點耐久度的物體。
+ammoEft919mmDesc,"9×19 Ball Ammo.\nLight ammo with average performance. Decent damage and penetration for its size. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",9×19 標準彈\n輕型彈藥，具備平均性能，傷害與穿透能力尚可，但對裝甲殭屍效果有限，對四肢傷害減少。\n可穿透最多 750 點耐久度的物體。
+ammoEft919mmAPDesc,"9×19 Armor Piercing Ammo.\nDecent penetration for breaking through low to mid-level armor, but lower base damage. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",9×19 穿甲彈\n中等穿透力，可突破中低級裝甲，但基礎傷害較低。對四肢傷害減少。\n可穿透最多 1500 點耐久度的物體。
+ammoEft919mmHPDesc,"9×19 RIP Ammo\nHigh damage against unarmored targets but struggles with armor.",9×19 RIP 彈\n對無防護目標造成高傷害，但面對裝甲時效果有限。
+ammoEft921mmDesc,"9×21 Ball Ammo.\nLight ammo with average performance. Decent damage and penetration for its size. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",9×21 標準彈\n輕型彈藥，具備平均性能，傷害與穿透能力尚可，但對裝甲殭屍效果有限，對四肢傷害減少。\n可穿透最多 750 點耐久度的物體。
+ammoEft921mmAPDesc,"9×21 Armor Piercing Ammo.\nDecent penetration for breaking through low to mid-level armor, but lower base damage. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",9×21 穿甲彈\n中等穿透力，可突破中低級裝甲，但基礎傷害較低。對四肢傷害減少。\n可穿透最多 1500 點耐久度的物體。
+ammoEft921mmHPDesc,"9×21 Hollow Point Ammo\nHigh damage against unarmored targets but struggles with armor.",9×21 空尖彈\n對無防護目標造成高傷害，但面對裝甲時效果有限。
+ammoEft45ACPDesc,".45ACP Ball Ammo.\nLight ammo with average performance. Decent damage and penetration for its size. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",.45ACP 標準彈\n輕型彈藥，具備平均性能，傷害與穿透能力尚可，但對裝甲殭屍效果有限，對四肢傷害減少。\n可穿透最多 750 點耐久度的物體。
+ammoEft45ACPAPDesc,".45ACP Armor Piercing Ammo.\nDecent penetration for breaking through low to mid-level armor, but lower base damage. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",.45ACP 穿甲彈\n中等穿透力，可突破中低級裝甲，但基礎傷害較低。對四肢傷害減少。\n可穿透最多 1500 點耐久度的物體。
+ammoEft45ACPRIPDesc,".45ACP RIP Ammo\nHigh damage against unarmored targets but struggles with armor.",.45ACP RIP 彈\n對無防護目標造成高傷害，但面對裝甲時效果有限。
+ammoEft4630mmHKDesc,"4.6×30 Ball Ammo.\nLight ammo with average performance. Decent damage and penetration for its size. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",4.6×30 標準彈\n輕型彈藥，具備平均性能，傷害與穿透能力尚可，但對裝甲殭屍效果有限，對四肢傷害減少。\n可穿透最多 750 點耐久度的物體。
+ammoEft4630mmHKAPDesc,"4.6×30 Armor Piercing Ammo.\nDecent penetration for breaking through low to mid-level armor, but lower base damage. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",4.6×30 穿甲彈\n中等穿透力，可突破中低級裝甲，但基礎傷害較低。對四肢傷害減少。\n可穿透最多 1500 點耐久度的物體。
+ammoEft4630mmHKHPDesc,"4.6×30 Hollow Point Ammo\nHigh damage against unarmored targets but struggles with armor.",4.6×30 空尖彈\n對無防護目標造成高傷害，但面對裝甲時效果有限。
+ammoEft5728FNDesc,"5.7×28 Ball Ammo.\nLight ammo with average performance. Decent damage and penetration for its size. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",5.7×28 標準彈\n輕型彈藥，具備平均性能，傷害與穿透能力尚可，但對裝甲殭屍效果有限，對四肢傷害減少。\n可穿透最多 750 點耐久度的物體。
+ammoEft5728FNAPDesc,"5.7×28 Armor Piercing Ammo.\nDecent penetration for breaking through low to mid-level armor, but lower base damage. Deals reduced limbs damage.\nCan penetrate a block of up to 1500 hitpoints.",5.7×28 穿甲彈\n中等穿透力，可突破中低級裝甲，但基礎傷害較低。對四肢傷害減少。\n可穿透最多 1500 點耐久度的物體。
+ammoEft5728FNHPDesc,"5.7×28 Hollow Point Ammo\nHigh damage against unarmored targets but struggles with armor.",5.7×28 空尖彈\n對無防護目標造成高傷害，但面對裝甲時效果有限。
+ammoEft50aeDesc,".50 Action Express Ball Ammo.\nHeavy-hitting standard ammo with solid damage and penetration. Ineffective against armored zombies. Deals reduced limbs damage.\nCan penetrate a block of up to 750 hitpoints.",.50 Action Express 標準彈\n重型標準彈藥，具備良好傷害與穿透能力，但對裝甲殭屍效果有限，對四肢傷害減少。\n可穿透最多 750 點耐久度的物體。
+ammoEft50aeHPDesc,".50 Action Express Hollow Point Ammo\nDevastating damage on soft targets but poor armor penetration.",.50 Action Express 空尖彈\n對軟性目標造成毀滅性傷害，但裝甲穿透能力低。
+schematicsmuzzleak74zenitdtk1,"[09FF00]AK Zenit DTK-1[-] Schematic",[09FF00]AK Zenit DTK-1[-] 設計圖
+schematicssilencersigsrd762ti,"[09FF00]SIG SRD762Ti Sound Supressor[-] Schematic",[09FF00]SIG SRD762Ti 消音器[-] 設計圖
+loadingTipEft1_title,"Escape From Tarkov Overhaul - v1.0Test",Escape From Tarkov Overhaul - v1.0 測試版
+loadingTipEft1,"This is test version 1.0 of the Escape From Tarkov Overhaul.\nMost prominent new features: Action Skills, new gun handling system, economy reballance & more trader heavy gameplay and a lot more ballance/gameplay changes. The game is overall harder now.\nRemoved: perks, perk books, readable magazines, sneak damage, stealth, armor modifiers (besides helmet light & NVG's), non-military looking armors.",這是 Escape From Tarkov Overhaul 的測試版本 1.0。\n主要新功能: 動作技能、新的槍械操控系統、經濟重新平衡、更加依賴商人交易的玩法，以及大量平衡/遊戲性改動。遊戲總體難度提高。\n刪除內容: 技能、技能書、可閱讀雜誌、潛行傷害、隱匿、裝甲修正（除頭盔燈 & 夜視外）、非軍事風格裝甲。
+loadingTipEft2_title,"New Guns And Attachments",新增槍械與配件
+loadingTipEft2,"This mod adds over 100+ guns with over 200+ multifunctional attachments like reflex sights, scopes, grips, stocks, underbarrel grenade launcher, muzzle devices and silencers. You can acquire guns and attachments by crafting them or finding them in weaponry-related loot/traders.",此模組新增 100+ 槍械，並包含 200+ 多功能配件，如 反射瞄準器、瞄具、握把、槍托、下掛榴彈發射器、槍口裝置 及 消音器。你可以透過 製作或在武器相關戰利品與商人處獲得。
+loadingTipEft3_title,"Ammo And Disassembly",彈藥與分解
+loadingTipEft3,"This mod adds 17 new ammo types; each consisting of Ball, Hollow Point and Armor Piercing.\nBall ammo is the all rounder generalist. Armor piercing ammo is more effective against armored zombies and groups due to its better penetration stats. Hollow point ammo, with higher flesh damage and lower penetration stats, is better for dealing with soft targets, including limbs which are generally not armored.\nAmmo can be disassembled to get all their resources: type 'disassembly' in the crafting window to craft disassembly bundles.",此模組新增 17 種新彈藥類型，包含 標準彈、空尖彈及穿甲彈。\n標準彈 是通用型，適合多種用途。穿甲彈 針對裝甲殭屍及大群敵人更有效，因為其穿透數值較高。空尖彈 則擁有更高的生物組織傷害與較低的穿透能力，適合對付軟性目標，包括未受裝甲保護的四肢。\n彈藥可以分解以獲得全部素材: 在 製作介面 中輸入 `'disassembly'` 來製作分解包。
+loadingTipEft4_title,"New Items",新增物品
+loadingTipEft4,"This mod adds a lot of useful items. Chemical crafting items, rare valuables, medics, food, drinks, liquor & injectors. Ammo crafting is more complex and all consumnables have their respective animations.",此模組新增大量實用物品，如 化學製作材料、稀有價值品、藥品、食物、飲料、烈酒與注射劑。彈藥製作更加複雜，所有可消耗品均有專屬動畫。
+loadingTipEft5_title,"Limb shots",四肢命中判定
+loadingTipEft5,"Shooting at limbs will deal reduced damage. HP ammo can ignore this penalty. ",射擊四肢將會造成減少的傷害，但 空尖彈可以無視此懲罰。
+loadingTipEft6_title,"Action Skills and Stats",動作技能與數據
+loadingTipEft6,"You can check your gun stats and action skill stats in the player stats window (default key B). The windows display your currently holding gun stats and the progression of your action skill bonuses.",你可以在 玩家狀態視窗（預設 B 鍵）中查看槍械數據與動作技能數據，該視窗會顯示你當前持有槍械的數據及 動作技能加成的進度。
+loadingTipEft7_title,"Economy And Traders",經濟與商人
+loadingTipEft7,"The currency has been changed to roubles. Each Trader specializes in different wares with their own unique stash.",貨幣已更改為盧布。每個商人專精於不同物品，且擁有獨特的庫存。
 loadingTipEft8_title,"Tiers & Progression",等級與進度
-loadingTipEft8,"Tier 1 items are displayed in a white color, Tier 2: green, Tier 3: blue, Tier 4: Purple, Tier 5: Gold.",1級物品顯示為白色，2級: 綠色，3級: 藍色，4級: 紫色，5級: 金色。
-loadingTipEft9_title,"Armored & Radiated Zombies",裝甲殭屍和輻射殭屍
-loadingTipEft9,"Armors can be punched through with enough damage dealt, even with hollow point. Limbs are generally not armored. Radiated Zombies have increased regen, without the 'Radiation Disruptor' mod or dealing enough damage to kill Rads, they might just recover to full HP before you could finish reloading your handgun. ",即使使用空尖彈，只要造成足夠的傷害，裝甲也能被穿透。肢體通常沒有裝甲。輻射殭屍的生命值回復能力增強，如果沒有「輻射干擾器」模組或造成足夠的傷害來殺死輻射殭屍，它們的生命值可能在你完成手槍裝填之前就恢復到滿血狀態。
-loadingTipEft10_title,"Wights & Special Zombies",屍鬼和特殊殭屍
-loadingTipEft10,"Wights are extremely dangerous, they are very fast and deal very high damage.\nSome zombies have a chance to carry lootcontainers on their back, which will drop on death.",屍鬼極度危險，它們速度極快，傷害力極高。 \n有些殭屍有機會背負戰利品容器，死亡後會掉落。
-loadingTipEft11_title,"Looting",戰利品
-loadingTipEft11,"All loot containers have been reworked and now contain the items that you expect them to contain. A weapon rack with a weapon displayed now always contains a weapon, a shelf with chemical items contains chemical items and so on.",所有戰利品容器均已重製，現在會包含您預期的物品。展示武​​器的武器架現在總是包含武器，放置化學物品的架子也會包含化學物品，等等。
-loadingTipEft12_title,"Work In Progress",開發中
-loadingTipEft12,"Keep in mind that even though this is the first stable release, minor issues are still possible.",請注意，即使這是第一個穩定版本，仍然可能存在一些小問題。
+loadingTipEft8,"Tier 1 items are displayed in a white color, Tier 2: green, Tier 3: blue, Tier 4: Purple, Tier 5: Gold.",第一階物品顯示為 白色，第二階: 綠色，第三階: 藍色，第四階: 紫色，第五階: 金色
+loadingTipEft9_title,"Armored & Radiated Zombies",裝甲 & 輻射殭屍
+loadingTipEft9,"Armors can be punched through with enough damage dealt, even with hollow point. Limbs are generally not armored. Radiated Zombies have increased regen, without the 'Radiation Disruptor' mod or dealing enough damage to kill Rads, they might just recover to full HP before you could finish reloading your handgun. ",裝甲可被足夠的傷害擊穿，即使使用 空尖彈 也可以穿透。四肢通常未受裝甲保護。\n輻射殭屍 擁有加強的再生能力，如果沒有輻射抑制模組或 未能造成足夠傷害消滅它們，它們可能在你換彈前恢復至完整生命值。
+loadingTipEft10_title,"Wights & Special Zombies",特殊殭屍 & 掠奪機制
+loadingTipEft10,"Wights are extremely dangerous, they are very fast and deal very high damage.\nSome zombies have a chance to carry lootcontainers on their back, which will drop on death.",特殊殭屍（Wights）極度危險，它們速度快且傷害極高。\n某些殭屍可能攜帶戰利品容器，擊殺後會掉落。
+loadingTipEft11_title,"Looting",戰利品系統
+loadingTipEft11,"All loot containers have been reworked and now contain the items that you expect them to contain. A weapon rack with a weapon displayed now always contains a weapon, a shelf with chemical items contains chemical items and so on.",所有戰利品容器已重新設計，並確保它們包含符合預期的物品。\n例如，帶有槍械展示的武器架內必定含有武器，存放化學品的架子內必定含有化學品，以此類推。
+loadingTipEft12_title,"Work In Progress",開發進度
+loadingTipEft12,"Keep in mind that even though this is the first stable release, minor issues are still possible.",請注意，儘管這是首個穩定版本，仍可能存在小問題。
+09FF00 2,,
+004CFF 3,,
+BB00FF 4,,
+FFD700 5,,
